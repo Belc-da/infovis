@@ -76,6 +76,16 @@
       background-color: var(--spotify-light-gray);
     }
 
+    /* Tarjeta especial con fondo claro para dar contraste */
+    .card.card-light {
+      background-color: #ffffff;
+      color: #121212;
+    }
+
+    .card.card-light:hover {
+      background-color: #f5f5f5;
+    }
+
     .card-header {
       display: flex;
       flex-direction: column;
@@ -85,6 +95,10 @@
       margin-bottom: 20px;
     }
 
+    .card-light .card-header {
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
     .card-title {
       font-size: 1.3rem;
       font-weight: 700;
@@ -92,9 +106,17 @@
       margin: 0;
     }
 
+    .card-light .card-title {
+      color: #107c39; /* Verde ligeramente más oscuro para alto contraste sobre blanco */
+    }
+
     .card-subtitle {
       font-size: 0.9rem;
       color: var(--spotify-text-sub);
+    }
+
+    .card-light .card-subtitle {
+      color: #666666;
     }
 
     /* Contenedor adaptativo de gráficos */
@@ -102,6 +124,12 @@
       width: 100%;
       border-radius: 8px;
       overflow: hidden;
+    }
+
+    .graphic-container-white {
+      background-color: #ffffff;
+      padding: 16px;
+      border-radius: 8px;
     }
 
     .graphic-container img,
@@ -121,14 +149,14 @@
   </header>
 
   <!-- ========================================================= -->
-  <!-- GRÁFICO 1: Datawrapper - Mi librería de canciones         -->
+  <!-- GRÁFICO 1: Datawrapper - Mi librería de canciones (Blanco) -->
   <!-- ========================================================= -->
-  <section class="card">
+  <section class="card card-light">
     <div class="card-header">
       <h2 class="card-title">Mi librería de canciones</h2>
       <span class="card-subtitle">Análisis general de la biblioteca</span>
     </div>
-    <div class="graphic-container">
+    <div class="graphic-container graphic-container-white">
       <div style="min-height:403px" id="datawrapper-vis-AUfL8">
         <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/AUfL8/embed.js" charset="utf-8" data-target="#datawrapper-vis-AUfL8"></script>
         <noscript>

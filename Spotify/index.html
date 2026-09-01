@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Spotify Data - Mis Reproducciones </title>
+  <title>Spotify Data - Mis Reproducciones</title>
 
   <!-- Script oficial de Flourish para renderizar embeds -->
   <script src="https://public.flourish.studio/resources/embed.js"></script>
@@ -103,6 +103,13 @@
       border-radius: 8px;
       overflow: hidden;
     }
+
+    .graphic-container img,
+    .graphic-container object {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
   </style>
 </head>
 <body>
@@ -114,7 +121,25 @@
   </header>
 
   <!-- ========================================================= -->
-  <!-- GRÁFICO 1: Flourish - Reproducciones Top 10 Artistas      -->
+  <!-- GRÁFICO 1: Datawrapper - Mi librería de canciones         -->
+  <!-- ========================================================= -->
+  <section class="card">
+    <div class="card-header">
+      <h2 class="card-title">Mi librería de canciones</h2>
+      <span class="card-subtitle">Análisis general de la biblioteca</span>
+    </div>
+    <div class="graphic-container">
+      <div style="min-height:403px" id="datawrapper-vis-AUfL8">
+        <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/AUfL8/embed.js" charset="utf-8" data-target="#datawrapper-vis-AUfL8"></script>
+        <noscript>
+          <img src="https://datawrapper.dwcdn.net/AUfL8/full.png" alt="Ranking Top 10 artistas (Bar Chart)" />
+        </noscript>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================= -->
+  <!-- GRÁFICO 2: Flourish - Reproducciones Top 10 Artistas      -->
   <!-- ========================================================= -->
   <section class="card">
     <div class="card-header">

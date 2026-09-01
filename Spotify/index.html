@@ -133,6 +133,17 @@
       color: var(--spotify-text-sub);
     }
 
+    .time-badge {
+      display: inline-block;
+      background-color: rgba(29, 185, 84, 0.15);
+      color: var(--spotify-green);
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-top: 6px;
+    }
+
     /* Grid de KPIs */
     .kpi-container {
       width: 100%;
@@ -341,11 +352,12 @@
   <!-- ========================================================= -->
   <div class="section-header" style="border-left-color: #1ed760;">
     <h2>2. Pero... ¿qué escucho realmente?</h2>
-    <p>Métricas detalladas de reproducción y consumo real en minutos extraídos del historial de Spotify.</p>
+    <p>Métricas detalladas de reproducción y consumo real extraídas de tu historial de streaming.</p>
+    <div class="time-badge">📅 Período analizado: Agosto 2025 – Agosto 2026</div>
   </div>
 
   <!-- KPIs de Historial Real -->
-  <section class="kpi-container">
+  <section class="kpi-container" style="margin-top: 20px;">
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">⏱️</span> Tiempo Total Escuchado</div>
       <div class="kpi-value" style="font-size: 1.5rem;">27,414.5 min</div>

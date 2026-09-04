@@ -1,0 +1,11 @@
+{
+  "ratedShows" : [ {
+    "showName" : "Segurola y Habana",
+    "rating" : 5,
+    "ratedAt" : "1691720300"
+  }, {
+    "showName" : "Pecados Capitales",
+    "rating" : 5,
+    "ratedAt" : "1691939429"
+  } ]
+}

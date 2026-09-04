@@ -1,0 +1,3054 @@
+{
+  "playlists" : [ {
+    "name" : "Musiquita offline",
+    "lastModifiedDate" : "2026-07-30",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "caravanas",
+        "artistName" : "Juana Molina",
+        "albumName" : "DOGA",
+        "trackUri" : "spotify:track:4yoF14WIqNJXDvTtHO7Jjh"
+      },
+      "addedDate" : "2026-02-27"
+    }, {
+      "track" : {
+        "trackName" : "Volver A Los 17",
+        "artistName" : "Milton Nascimento",
+        "albumName" : "Geraes",
+        "trackUri" : "spotify:track:5iM1d3XfIwIYJMjUJhrce3"
+      },
+      "addedDate" : "2026-02-27"
+    }, {
+      "track" : {
+        "trackName" : "Sol de Invierno",
+        "artistName" : "Javiera Mena",
+        "albumName" : "Esquemas Juveniles",
+        "trackUri" : "spotify:track:7F01A0iUZOuMyuGQcmIaYS"
+      },
+      "addedDate" : "2026-02-27"
+    }, {
+      "track" : {
+        "trackName" : "Un Rayo de Sol",
+        "artistName" : "Suarez",
+        "albumName" : "29:09:00",
+        "trackUri" : "spotify:track:0jXf2C7Zi9felRBCDI1lHp"
+      },
+      "addedDate" : "2026-02-27"
+    }, {
+      "track" : {
+        "trackName" : "Perlas",
+        "artistName" : "Javiera Mena",
+        "albumName" : "Esquemas Juveniles",
+        "trackUri" : "spotify:track:3GHWq6rY91ixUhCrD9HDtn"
+      },
+      "addedDate" : "2026-02-27"
+    }, {
+      "track" : {
+        "trackName" : "Esquemas Juveniles",
+        "artistName" : "Javiera Mena",
+        "albumName" : "Esquemas Juveniles",
+        "trackUri" : "spotify:track:572uC924WbnO4ABB2r1Edc"
+      },
+      "addedDate" : "2026-02-27"
+    }, {
+      "track" : {
+        "trackName" : "Volver a Volver",
+        "artistName" : "Gabo Ferro",
+        "albumName" : "La primera noche del fantasma",
+        "trackUri" : "spotify:track:5ud9m3hK0ScDeiRA9GKRg3"
+      },
+      "addedDate" : "2026-02-27"
+    }, {
+      "track" : {
+        "trackName" : "Motion Sickness",
+        "artistName" : "Phoebe Bridgers",
+        "albumName" : "Stranger in the Alps",
+        "trackUri" : "spotify:track:25Syi9wnfn6ZGAmiOBypPq"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "El Día Que Nací Yo",
+        "artistName" : "Rodrigo Cuevas",
+        "albumName" : "Manual de Cortejo",
+        "trackUri" : "spotify:track:5S23UOkrexcAWHmyTeTbaU"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Cuándo Podrás Amar",
+        "artistName" : "Las Pelotas",
+        "albumName" : "Para Qué?",
+        "trackUri" : "spotify:track:5BFP1gLPvRrO0Po2oQRo6m"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "lo_divino",
+        "artistName" : "Juana Aguirre",
+        "albumName" : "anónimo",
+        "trackUri" : "spotify:track:20SlD6QDxPlOd1Ip0NvsdG"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Configuraciones Onduladas",
+        "artistName" : "Juana Aguirre",
+        "albumName" : "Claroscuro",
+        "trackUri" : "spotify:track:4EQYYZtNhlZTcyx1SiO9cf"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Hermoza From Heaven",
+        "artistName" : "Illya Kuryaki & The Valderramas",
+        "albumName" : "Chaco (Serie Rock Nacional 2004)",
+        "trackUri" : "spotify:track:35wwlDG0j5UGZOZtbTixzc"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "País Tropical",
+        "artistName" : "Sergio Mendes & Brasil '77",
+        "albumName" : "País Tropical",
+        "trackUri" : "spotify:track:0Sd2NPOs49sIffgM3hVf0q"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Gotas en la Frente",
+        "artistName" : "Valle de Muñecas",
+        "albumName" : "La Autopista Corre del Océano Hasta el Amanecer",
+        "trackUri" : "spotify:track:4NIW9Jbn5g5tWrvMaFWF9P"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Roseblood",
+        "artistName" : "Mazzy Star",
+        "albumName" : "Among My Swan",
+        "trackUri" : "spotify:track:2qV5Ce0sMlFsrseRO5CTMU"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "when you sleep",
+        "artistName" : "my bloody valentine",
+        "albumName" : "loveless",
+        "trackUri" : "spotify:track:2KylN9C0wNbzLgZNTG9oiU"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Bombachitas Rosas",
+        "artistName" : "Las Pelotas",
+        "albumName" : "Corderos en la Noche",
+        "trackUri" : "spotify:track:0imN53D8nCDcazLpNWmWTu"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Las flores del jardín",
+        "artistName" : "Duratierra",
+        "albumName" : "A los amores - El folklórico Vol. 1",
+        "trackUri" : "spotify:track:0eMyNTRpmXAPRbi3wsTHyM"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "A los amores",
+        "artistName" : "Duratierra",
+        "albumName" : "A los amores - El folklórico Vol. 1",
+        "trackUri" : "spotify:track:0cbdxlxNpdI7i67Iq655rO"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Trinchera",
+        "artistName" : "Duratierra",
+        "albumName" : "Trinchera, Vol. 1",
+        "trackUri" : "spotify:track:5w2NAn8sF2wrT2kF5GATBa"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Gypsy",
+        "artistName" : "Fleetwood Mac",
+        "albumName" : "Greatest Hits",
+        "trackUri" : "spotify:track:19Ym5Sg0YyOCa6ao21bdoG"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Canción Urgente para Nicaragua",
+        "artistName" : "Silvio Rodríguez",
+        "albumName" : "Unicornio",
+        "trackUri" : "spotify:track:3yfnfYDFVoFKpD7H24cV2E"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Ninja Mental",
+        "artistName" : "Illya Kuryaki & The Valderramas",
+        "albumName" : "Ninja Mental - Unplugged MTV",
+        "trackUri" : "spotify:track:4TicjhD6UpAyVkFQibEsoc"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Abismo",
+        "artistName" : "Illya Kuryaki & The Valderramas",
+        "albumName" : "Chaco (Serie Rock Nacional 2004)",
+        "trackUri" : "spotify:track:6oCXxmPBZ5DWVqfticoh4c"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Vestida Para Morir",
+        "artistName" : "Mora y los Metegoles",
+        "albumName" : "Suerte",
+        "trackUri" : "spotify:track:3TKAgC3yCRumD8Vw487ITS"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "La Guerra del Japón",
+        "artistName" : "Los Mundos Posibles",
+        "albumName" : "Pintura de Guerra",
+        "trackUri" : "spotify:track:2hdNRbAuLN8LxRPQi45hvB"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "La Ciudad Mas Austral del Mundo",
+        "artistName" : "Los Mundos Posibles",
+        "albumName" : "Pintura de Guerra",
+        "trackUri" : "spotify:track:4kRmYRUTKtoFzgUUqTaQoj"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Bienvenida",
+        "artistName" : "Jeites",
+        "albumName" : "Jeites II",
+        "trackUri" : "spotify:track:6lwE28Yci3LIhGHgxHyYGb"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Little Green",
+        "artistName" : "Joni Mitchell",
+        "albumName" : "Blue",
+        "trackUri" : "spotify:track:11ZNWD9Xzq9p3n07NbWSZw"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Puedo Morir, Puedo Caer",
+        "artistName" : "Usted Señalemelo",
+        "albumName" : "II",
+        "trackUri" : "spotify:track:2vsLYhay0arlPRWJVOsNDq"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Mañana",
+        "artistName" : "Usted Señalemelo",
+        "albumName" : "II",
+        "trackUri" : "spotify:track:1gzLL9KoBghJpD0KMxceOi"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "F.T",
+        "artistName" : "Usted Señalemelo",
+        "albumName" : "II",
+        "trackUri" : "spotify:track:3xGYklu2vMLWm6SKUwe3h6"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "La Idea",
+        "artistName" : "Palo Pandolfo",
+        "albumName" : "Siervo",
+        "trackUri" : "spotify:track:4ny4cMxJ1tYvJb34NcVMHU"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Cortémonos la Cara",
+        "artistName" : "Martín Buscaglia",
+        "albumName" : "Temporada de Conejos",
+        "trackUri" : "spotify:track:5mVkeA8jJ21KFopkXrASbe"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Un Milagro",
+        "artistName" : "NAFTA",
+        "albumName" : "NAFTA II",
+        "trackUri" : "spotify:track:7CqAwQW5OcOWgP6lVftST7"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Al Final de Este Viaje en la Vida",
+        "artistName" : "Silvio Rodríguez",
+        "albumName" : "Al Final de Este Viaje...",
+        "trackUri" : "spotify:track:2ja41V8fXBHRDTl3O9zw5L"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Santa Maria De Feira",
+        "artistName" : "Devendra Banhart",
+        "albumName" : "Cripple Crow",
+        "trackUri" : "spotify:track:6Yf2HCrWLUo8sgm7KuQagg"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Otro Atardecer",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:0E0DRHf5PfMeor0ZCwB3oT"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Neverita",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:31i56LZnwE6uSu3exoHjtB"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "$20",
+        "artistName" : "boygenius",
+        "albumName" : "the record",
+        "trackUri" : "spotify:track:6KHYVC9avWQMH40pidRtcG"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Cherry-coloured Funk",
+        "artistName" : "Cocteau Twins",
+        "albumName" : "Heaven or Las Vegas",
+        "trackUri" : "spotify:track:37pKTyMwalomKCZjxTc2QZ"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Bad Habit",
+        "artistName" : "Steve Lacy",
+        "albumName" : "Bad Habit",
+        "trackUri" : "spotify:track:5CM4UuQ9Gnd6K2YyKGPMoK"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Playas Oscuras",
+        "artistName" : "Los Visitantes",
+        "albumName" : "Salud Universal",
+        "trackUri" : "spotify:track:6yRknu7uvnsgLz1Riy5rZr"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Blue Boy",
+        "artistName" : "Mac DeMarco",
+        "albumName" : "Salad Days",
+        "trackUri" : "spotify:track:6drC7tBnx8AiYfTfBmDPVO"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "El Límite",
+        "artistName" : "Marina Fages",
+        "albumName" : "El Límite",
+        "trackUri" : "spotify:track:19UGBEYHwRc7UJQnesJViB"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Superficies de Placer",
+        "artistName" : "Virus",
+        "albumName" : "Superficies de Placer",
+        "trackUri" : "spotify:track:36YmakOxI0KQmbB063IKYz"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Me Gusta",
+        "artistName" : "Ciro y los Persas",
+        "albumName" : "27",
+        "trackUri" : "spotify:track:67Q93kXygxCskeQiIP0V0j"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "No Hablaremos de Mañana",
+        "artistName" : "Camionero",
+        "albumName" : "Todo lo Sólido se Desvanece en el Aire",
+        "trackUri" : "spotify:track:5OWx7gi1D9yRmfAqKW6jVx"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Puesto a germinar",
+        "artistName" : "Gabo Ferro",
+        "albumName" : "El lapsus del jinete ciego",
+        "trackUri" : "spotify:track:5aE9nfu7GrDjAvT9PhlkH2"
+      },
+      "addedDate" : "2026-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Caetano",
+        "artistName" : "Emmanuel Horvilleur",
+        "albumName" : "Caetano",
+        "trackUri" : "spotify:track:1WoOzETi8gZSs3f4rm6TaT"
+      },
+      "addedDate" : "2026-07-30"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "La próxima aventura \uD83C\uDF0B",
+    "lastModifiedDate" : "2026-03-01",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Alma",
+        "artistName" : "Gustavo Cerati",
+        "albumName" : "Bocanada",
+        "trackUri" : "spotify:track:69wr7sFvZbeU8TKu1K3X9U"
+      },
+      "addedDate" : "2025-12-13"
+    }, {
+      "track" : {
+        "trackName" : "Mi Negrita",
+        "artistName" : "Devendra Banhart",
+        "albumName" : "Mala",
+        "trackUri" : "spotify:track:4r7iDEGdW2Gw9hJlCbi5qL"
+      },
+      "addedDate" : "2025-12-13"
+    }, {
+      "track" : {
+        "trackName" : "Corazón de guagua",
+        "artistName" : "San Pedro Bonfim",
+        "albumName" : "Corazón de guagua",
+        "trackUri" : "spotify:track:7jmuiJQoAi1u7wlCqZg1tY"
+      },
+      "addedDate" : "2025-12-13"
+    }, {
+      "track" : {
+        "trackName" : "Débil como una piedra",
+        "artistName" : "San Pedro Bonfim",
+        "albumName" : "Soy un detective subido en un burro",
+        "trackUri" : "spotify:track:2ETyi45VOhoPdicTx2wYzy"
+      },
+      "addedDate" : "2025-12-14"
+    }, {
+      "track" : {
+        "trackName" : "Chachachá",
+        "artistName" : "Jósean Log",
+        "albumName" : "Háblate de Mí",
+        "trackUri" : "spotify:track:6aommJFM8i3iT4inKuDSXh"
+      },
+      "addedDate" : "2025-12-14"
+    }, {
+      "track" : {
+        "trackName" : "Santa Maria De Feira",
+        "artistName" : "Devendra Banhart",
+        "albumName" : "Cripple Crow",
+        "trackUri" : "spotify:track:2jfgHDPhr2Y5bTX9TVreE5"
+      },
+      "addedDate" : "2025-12-14"
+    }, {
+      "track" : {
+        "trackName" : "Maestro Distorsión",
+        "artistName" : "Astro",
+        "albumName" : "Le Disc de Astrou",
+        "trackUri" : "spotify:track:6qcA3d8yFPRAlp7NBvH0gV"
+      },
+      "addedDate" : "2025-12-14"
+    }, {
+      "track" : {
+        "trackName" : "Suavito",
+        "artistName" : "Malecon Social Club",
+        "albumName" : "Suavito",
+        "trackUri" : "spotify:track:1mMqjaPa1gl0ZHrcDYqFo1"
+      },
+      "addedDate" : "2025-12-27"
+    }, {
+      "track" : {
+        "trackName" : "Quedate Luna",
+        "artistName" : "Devendra Banhart",
+        "albumName" : "Cripple Crow",
+        "trackUri" : "spotify:track:0pAV4Vyxxag2uEWVu00Jxi"
+      },
+      "addedDate" : "2025-12-27"
+    }, {
+      "track" : {
+        "trackName" : "Rendición",
+        "artistName" : "Onda Vaga",
+        "albumName" : "Magma Elemental",
+        "trackUri" : "spotify:track:2X81bHh6mHmQdvWtAmWNTq"
+      },
+      "addedDate" : "2025-12-27"
+    }, {
+      "track" : {
+        "trackName" : "Revolución",
+        "artistName" : "Onda Vaga",
+        "albumName" : "Magma Elemental",
+        "trackUri" : "spotify:track:5SlhfF2iN23t2A90FWmhVu"
+      },
+      "addedDate" : "2025-12-27"
+    }, {
+      "track" : {
+        "trackName" : "Mambeado",
+        "artistName" : "Onda Vaga",
+        "albumName" : "Fuerte Y Caliente",
+        "trackUri" : "spotify:track:1qbt0lhWF7LGtPFA4DxXjt"
+      },
+      "addedDate" : "2025-12-27"
+    }, {
+      "track" : {
+        "trackName" : "Movimiento",
+        "artistName" : "Jorge Drexler",
+        "albumName" : "Salvavidas de hielo",
+        "trackUri" : "spotify:track:7pBoi7yWCPzn3UjeMsGKg6"
+      },
+      "addedDate" : "2025-12-27"
+    }, {
+      "track" : {
+        "trackName" : "Hermoza From Heaven",
+        "artistName" : "Illya Kuryaki & The Valderramas",
+        "albumName" : "Chaco (Serie Rock Nacional 2004)",
+        "trackUri" : "spotify:track:35wwlDG0j5UGZOZtbTixzc"
+      },
+      "addedDate" : "2025-12-28"
+    }, {
+      "track" : {
+        "trackName" : "Desde Dentro",
+        "artistName" : "Buendia",
+        "albumName" : "En el Caribe También Pasa Esto",
+        "trackUri" : "spotify:track:38MvBCfKEfqBmx4bfXxA7Z"
+      },
+      "addedDate" : "2025-12-30"
+    }, {
+      "track" : {
+        "trackName" : "Yo Nunca Pedí",
+        "artistName" : "Martín Buscaglia",
+        "albumName" : "Plácido Domingo",
+        "trackUri" : "spotify:track:6g47cPPTFYmr844kpu3gnE"
+      },
+      "addedDate" : "2026-02-28"
+    }, {
+      "track" : {
+        "trackName" : "Buen Viaje",
+        "artistName" : "Fémina",
+        "albumName" : "Traspasa",
+        "trackUri" : "spotify:track:53Jf3ChStU9gJy69jUYRVw"
+      },
+      "addedDate" : "2026-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Viajar Contigo Es Como Escuchar la Vida Secreta de las Plantas",
+        "artistName" : "Martín Buscaglia",
+        "albumName" : "El Evangelio Según Mi Jardinero",
+        "trackUri" : "spotify:track:2j9es41cwm6vdyYmUzyp4g"
+      },
+      "addedDate" : "2026-03-01"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Musiquita de ruta\uD83E\uDDC9♥️",
+    "lastModifiedDate" : "2025-12-13",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Altas Horas",
+        "artistName" : "Martín Buscaglia",
+        "albumName" : "Temporada de Conejos",
+        "trackUri" : "spotify:track:6pbEMb1Nl9hy1oAGmvVyd8"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Lo + Fino",
+        "artistName" : "Las Pastillas del Abuelo",
+        "albumName" : "Por Colectora",
+        "trackUri" : "spotify:track:2f3dwPRhRN1pt136Cr1hnm"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Me Gustas Tu",
+        "artistName" : "Manu Chao",
+        "albumName" : "Próxima Estación: Esperanza",
+        "trackUri" : "spotify:track:6b37xrsNCWYIUphFBazqD6"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Insisto",
+        "artistName" : "Ciro y los Persas",
+        "albumName" : "Espejos",
+        "trackUri" : "spotify:track:0yCKreevOzN7ekcw7e4PuS"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Me Gusta",
+        "artistName" : "Ciro y los Persas",
+        "albumName" : "27",
+        "trackUri" : "spotify:track:67Q93kXygxCskeQiIP0V0j"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Fuego de Febrero",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "CORRENTADA",
+        "trackUri" : "spotify:track:5Z6csaSbXqcgJKCDlSmJq7"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Nunca quise",
+        "artistName" : "Intoxicados",
+        "albumName" : "Otro Día en el Planeta Tierra",
+        "trackUri" : "spotify:track:0ZAJ660VP57lLK4U7NlGOy"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Es por ahí",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "CORRENTADA",
+        "trackUri" : "spotify:track:4TBG4gjiDhDP16CzScTyEw"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Romance Con el Desapego",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Danza de Antalgia",
+        "trackUri" : "spotify:track:2B1YNilT0GM0QGExt5kBuq"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Oro de Abeja",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Estado de Enlace",
+        "trackUri" : "spotify:track:7FdVanT4dZDRjDJYH86HjY"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Mar Argentino",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Devorando Intensidad",
+        "trackUri" : "spotify:track:5GpoTC2Y6FTkAI5PFSr4ck"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Circunvalación",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Ruli",
+        "trackUri" : "spotify:track:3ZzTb6DtRsEefggtxqdt13"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Encendedor",
+        "artistName" : "Gauchito Club",
+        "albumName" : "El camino de la libertad",
+        "trackUri" : "spotify:track:5vDlyaTkuXjqqGBK0VXi5P"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "El Riesgo",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Devorando Intensidad",
+        "trackUri" : "spotify:track:5oxGnXpTRvlcNXiT5BbpHz"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Parque Acuático",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Parque Acuático",
+        "trackUri" : "spotify:track:578MR3VHLgUpRsO5RY4Mye"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Todo Pasa",
+        "artistName" : "Los Piojos",
+        "albumName" : "3er Arco",
+        "trackUri" : "spotify:track:28lnhTSWkiBngKkT1ik12n"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Charlatán",
+        "artistName" : "Gauchito Club",
+        "albumName" : "El camino de la libertad",
+        "trackUri" : "spotify:track:6xIWZtl50flKRvNKaeUD74"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Díganselo",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Hola Precioso",
+        "trackUri" : "spotify:track:4Yf2p0iSTvm1n1sEoBzCID"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "En Avenidas",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Ruli",
+        "trackUri" : "spotify:track:68TwADlMU4zpQ3nzAKuVtE"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Semilla del Alma",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Devorando Intensidad",
+        "trackUri" : "spotify:track:0vSnHPbnJ27xHEdyjwOeVY"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "La Vida Cura",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Devorando Intensidad",
+        "trackUri" : "spotify:track:2jgmupmOZvlib3qXzwnoI3"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Skalipso",
+        "artistName" : "Las Pastillas del Abuelo",
+        "albumName" : "Por Colectora",
+        "trackUri" : "spotify:track:4NSfXRsWDBhbTebwBmOSbB"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Amor de Perros",
+        "artistName" : "Los Piojos",
+        "albumName" : "Máquina de Sangre",
+        "trackUri" : "spotify:track:7GyuEYodsW5i5ZkiE7OoO3"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Peluquita",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Hola Precioso",
+        "trackUri" : "spotify:track:1Ck1ryMfUTMYw7qSBLTn3j"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "La Pibita",
+        "artistName" : "Gauchito Club",
+        "albumName" : "Guandanara",
+        "trackUri" : "spotify:track:4lebL4rGM9kiip78o3DpH9"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Al Atardecer",
+        "artistName" : "Los Piojos",
+        "albumName" : "3er Arco",
+        "trackUri" : "spotify:track:1VEr9Ss97XJWAeS61fR3yV"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Movimiento Astral",
+        "artistName" : "Gauchito Club",
+        "albumName" : "El camino de la libertad",
+        "trackUri" : "spotify:track:12GWfMVDTpmtqRU8tllXdH"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Loco en el Desierto",
+        "artistName" : "Conociendo Rusia",
+        "albumName" : "Conociendo Rusia",
+        "trackUri" : "spotify:track:392fECmnYZTQjL97hqEElg"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Sudestada",
+        "artistName" : "Los Piojos",
+        "albumName" : "Máquina de Sangre",
+        "trackUri" : "spotify:track:08c78f2li3D4xO5b3dovxK"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Domador de Sombras",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Estado de Enlace",
+        "trackUri" : "spotify:track:0D53gGgRGEgGyY7X0uZ1Ay"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Bondi",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Cuentito",
+        "trackUri" : "spotify:track:0zl5ioHOL40MtvB9w2ahpg"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "El Paraíso de los Perros",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Beatriz",
+        "trackUri" : "spotify:track:1ZExi4RUzzWWpZU1HjNGZe"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Mi Semilla",
+        "artistName" : "La Vela Puerca",
+        "albumName" : "La Vela Puerca",
+        "trackUri" : "spotify:track:4SkGchp4kZKGsHGFN8NGb7"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Magia Blanca",
+        "artistName" : "Turf",
+        "albumName" : "Para Mi para Vos",
+        "trackUri" : "spotify:track:4PfoTZ8nDhWEZNeDpLxy7G"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Planeta Numir",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Fierrín",
+        "trackUri" : "spotify:track:5EZBC3ufTN3dZql1yvkFzc"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Piel de Cereza",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Beatriz",
+        "trackUri" : "spotify:track:7sri9bp0JvDbey8gXUqbza"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Carece de Sentido",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Beatriz",
+        "trackUri" : "spotify:track:38rJBb8ebaVTMt8olRmUJd"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "El Ritmo de la Vida",
+        "artistName" : "Lo' Pibitos",
+        "albumName" : "A Punto Caramelo",
+        "trackUri" : "spotify:track:0nWdzerefBQpTFg8gIbCjA"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Buen Dia, Nena",
+        "artistName" : "Los Gardelitos",
+        "albumName" : "Ciudad Oculta",
+        "trackUri" : "spotify:track:6iCr9BF0CVmwhNivsoAN7s"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Sin Gamulán",
+        "artistName" : "Los Abuelos De La Nada",
+        "albumName" : "Los Abuelos De La Nada",
+        "trackUri" : "spotify:track:3I7BjZp14rKFzavKxE6sBP"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Onliyu",
+        "artistName" : "Gauchito Club",
+        "albumName" : "El camino de la libertad",
+        "trackUri" : "spotify:track:7rGev91rZcvycQhmeLRSok"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Fuego",
+        "artistName" : "Intoxicados",
+        "albumName" : "Otro Día en el Planeta Tierra",
+        "trackUri" : "spotify:track:6q41qt2R9K8BXEzmzImEGO"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Homero",
+        "artistName" : "Viejas Locas",
+        "albumName" : "Especial",
+        "trackUri" : "spotify:track:3AjSUbPd7siXGOSlmXm9Nr"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Vine Hasta Aquí",
+        "artistName" : "Los Piojos",
+        "albumName" : "Verde Paisaje del Infierno",
+        "trackUri" : "spotify:track:7LOkbiMpnZYbybdWuv7S4U"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Aunque A Nadie Ya Le Importe",
+        "artistName" : "Viejas Locas",
+        "albumName" : "Hermanos De Sangre",
+        "trackUri" : "spotify:track:1vjq8CYHjEldjWPCCBTu2Y"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Don Electrón",
+        "artistName" : "Intoxicados",
+        "albumName" : "No Es Solo Rock And Roll",
+        "trackUri" : "spotify:track:7BmZ9hWbsZPa5Lf1jVdnxg"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "El Rey",
+        "artistName" : "Intoxicados",
+        "albumName" : "Buen Dia",
+        "trackUri" : "spotify:track:7pD3i9qZggLq6aS29NnEj3"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Esta Saliendo El Sol",
+        "artistName" : "Intoxicados",
+        "albumName" : "No Es Solo Rock And Roll",
+        "trackUri" : "spotify:track:2pmHBQiIjVfTyn3p1rRbSB"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Me Siento Mucho Mejor",
+        "artistName" : "Charly García",
+        "albumName" : "Filosofía Barata y Zapatos de Goma",
+        "trackUri" : "spotify:track:3C5OdJjudhoDye8E5mU3nI"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Y Quemás",
+        "artistName" : "Los Piojos",
+        "albumName" : "Azul",
+        "trackUri" : "spotify:track:499kpq8yWHsIWhWrM0Wk6v"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "No Tengo Ganas",
+        "artistName" : "Intoxicados",
+        "albumName" : "No Es Solo Rock And Roll",
+        "trackUri" : "spotify:track:5LIHbW6EG9IRlIaXfcuFnH"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Todo Sigue Igual",
+        "artistName" : "Viejas Locas",
+        "albumName" : "Especial",
+        "trackUri" : "spotify:track:75dqA2rQHnUtP7XjvkmKh2"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Como un Cuento",
+        "artistName" : "Divididos",
+        "albumName" : "Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "trackUri" : "spotify:track:3EissuXjQZQrjpHh8gRCG1"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Par Mil",
+        "artistName" : "Divididos",
+        "albumName" : "Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "trackUri" : "spotify:track:0wUFXsXHZc2h6wKRcmJNWF"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Tan Perfecto Que Asusta",
+        "artistName" : "Callejeros",
+        "albumName" : "Rocanroles Sin Destino",
+        "trackUri" : "spotify:track:0E8XJWxq5ovryhm0gqqiXd"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Las cosas que no se tocan",
+        "artistName" : "Intoxicados",
+        "albumName" : "Otro Día en el Planeta Tierra",
+        "trackUri" : "spotify:track:5Y3T9zncw2XDAcn9pFliKT"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Lunita de Tucumán",
+        "artistName" : "Tan Bionica",
+        "albumName" : "Canciones del Huracan + Wonderful Noches",
+        "trackUri" : "spotify:track:53lW5YliQ7tFJYYfTKE1aA"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Muévelo",
+        "artistName" : "Los Piojos",
+        "albumName" : "3er Arco",
+        "trackUri" : "spotify:track:4xkQxDPC6RBV1Yfx6vkLsO"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Polvo de estrellas",
+        "artistName" : "Jeites",
+        "albumName" : "Desde la Tierra",
+        "trackUri" : "spotify:track:0bJzMGfpvXxU8dVLnMtoR0"
+      },
+      "addedDate" : "2025-12-07"
+    }, {
+      "track" : {
+        "trackName" : "Cariño Reptil",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Cariño Reptil",
+        "trackUri" : "spotify:track:3TwjXVT7AyTK5AqnN2fOYP"
+      },
+      "addedDate" : "2025-12-13"
+    }, {
+      "track" : {
+        "trackName" : "Sinoca",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Hola Precioso",
+        "trackUri" : "spotify:track:4MTjgfF22CG7GaTlvn4YTf"
+      },
+      "addedDate" : "2025-12-13"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Pa move el qlo",
+    "lastModifiedDate" : "2025-09-14",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "CAFé CON RON",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:6VNXmo59yDYgcwLS17UNAW"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Linda",
+        "artistName" : "Tokischa",
+        "albumName" : "Linda",
+        "trackUri" : "spotify:track:1ahCrpeTt94LL7y1aXw0Y8"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "BULERÍAS",
+        "artistName" : "ROSALÍA",
+        "albumName" : "MOTOMAMI",
+        "trackUri" : "spotify:track:5tmrMIajDQRBcJQPaoAGdk"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "DELIRIO DE GRANDEZA",
+        "artistName" : "ROSALÍA",
+        "albumName" : "MOTOMAMI",
+        "trackUri" : "spotify:track:6lKZ5I0yW3IpUFHEKJCWlx"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Te Venero",
+        "artistName" : "ROSALÍA",
+        "albumName" : "Los Ángeles",
+        "trackUri" : "spotify:track:5r3n7YYY1jtl8pqvZr1DAD"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "BAILE INoLVIDABLE",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:2lTm559tuIvatlT1u0JYG2"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "NUEVAYoL",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:5TFD2bmFKGhoCRbX61nXY5"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "PIToRRO DE COCO",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:14QaXYIK3K3QPtezqxRRPN"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "DtMF",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Ojalá Que Llueva Café",
+        "artistName" : "Juan Luis Guerra 4.40",
+        "albumName" : "Ojalá Que Llueva Café",
+        "trackUri" : "spotify:track:2HQqhVP8NOaoIhPTQ8I5bm"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "El Cuarto de Tula",
+        "artistName" : "Buena Vista Social Club",
+        "albumName" : "Buena Vista Social Club",
+        "trackUri" : "spotify:track:5UjaOsrdoI4shw9gM2eNPC"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "LO QUE LE PASÓ A HAWAii",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:1Hg0e997pObvZ91w1FCPFk"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "LA MuDANZA",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:3G7agPwWfcORnWCAGMDOpm"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "EoO",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:6J5kc12BW5HuP3d7C3vvx8"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Otro Atardecer",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:0E0DRHf5PfMeor0ZCwB3oT"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Neverita",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:31i56LZnwE6uSu3exoHjtB"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Me Maten - Live at NPR's Tiny Desk",
+        "artistName" : "C. Tangana",
+        "albumName" : "El Madrileño (La Sobremesa)",
+        "trackUri" : "spotify:track:2uFlBIfS4XKyOVPKiIrj5L"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Ojitos Lindos",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:3k3NWokhRRkEPhCzPmV8TW"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Andrea",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:44XjoNvtwevktFKjvVe1vH"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "BIZCOCHITO",
+        "artistName" : "ROSALÍA",
+        "albumName" : "MOTOMAMI",
+        "trackUri" : "spotify:track:4kXxEhuatrvwrTQycA7s9B"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "WELTiTA",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:5WEF0icHWmAZBBMglBd599"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "VeLDÁ",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:7d6yK8v8J484SWH5prIQiE"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "Un Coco",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:6VrQTLzzuyGIYjUDe4kAZk"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "DE MARAVISHA",
+        "artistName" : "Tokischa",
+        "albumName" : "DE MARAVISHA",
+        "trackUri" : "spotify:track:20Its0iJ6nvKoKw3cY4ydD"
+      },
+      "addedDate" : "2025-01-19"
+    }, {
+      "track" : {
+        "trackName" : "4 noviosS",
+        "artistName" : "Six Sex",
+        "albumName" : "Kappa Kitty Gato 2 / 4 noviosS",
+        "trackUri" : "spotify:track:5jTL6HHZnDvCkjrChTVIGz"
+      },
+      "addedDate" : "2025-09-14"
+    } ],
+    "description" : "salsa kndombe flamenco y otras cositas ricas",
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Chill eng",
+    "lastModifiedDate" : "2025-01-01",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Our Day Will Come",
+        "artistName" : "Amy Winehouse",
+        "albumName" : "Lioness: Hidden Treasures",
+        "trackUri" : "spotify:track:4NDpn6yfD5aqafYWFEaJDz"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Like Smoke",
+        "artistName" : "Amy Winehouse",
+        "albumName" : "Lioness: Hidden Treasures",
+        "trackUri" : "spotify:track:2r45rookK2awLkiOHOef1o"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Let's Stay Together",
+        "artistName" : "Tina Turner",
+        "albumName" : "All The Best",
+        "trackUri" : "spotify:track:6UgSIl72NG9gTLxqHQ8qqP"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Kaya",
+        "artistName" : "Bob Marley",
+        "albumName" : "Best of Reggae, Vol. III (Original Artists)",
+        "trackUri" : "spotify:track:5IyvkxwzCEosKgQB8fmeeB"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Is This Love",
+        "artistName" : "Bob Marley & The Wailers",
+        "albumName" : "Kaya",
+        "trackUri" : "spotify:track:6JRLFiX9NJSoRRKxowlBYr"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Three Little Birds",
+        "artistName" : "Bob Marley & The Wailers",
+        "albumName" : "Exodus",
+        "trackUri" : "spotify:track:7yFvSYKk3g5g8e7Ffl16ws"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Satisfy My Soul",
+        "artistName" : "Bob Marley & The Wailers",
+        "albumName" : "Kaya",
+        "trackUri" : "spotify:track:5Uv1YNz6uBepPLDdoFANKQ"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Misread",
+        "artistName" : "Kings of Convenience",
+        "albumName" : "Riot On An Empty Street",
+        "trackUri" : "spotify:track:3hxoYmSHzIBwSS2bPTOfbg"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "South Side - Mono Version",
+        "artistName" : "Moby",
+        "albumName" : "Play",
+        "trackUri" : "spotify:track:1sVv67vCTTKGBM5ZHYAcli"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Moonage Daydream - 2012 Remaster",
+        "artistName" : "David Bowie",
+        "albumName" : "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+        "trackUri" : "spotify:track:6mib3N4E8PZHAGQ3xy7bho"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Fight Test",
+        "artistName" : "The Flaming Lips",
+        "albumName" : "Yoshimi Battles the Pink Robots",
+        "trackUri" : "spotify:track:0ScgmigVOJr2mFsAtwFQmz"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Cure for Pain",
+        "artistName" : "Morphine",
+        "albumName" : "Cure for Pain",
+        "trackUri" : "spotify:track:3hO9gaVixKDoYDrlTBrEWf"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Bad Habit",
+        "artistName" : "Steve Lacy",
+        "albumName" : "Bad Habit",
+        "trackUri" : "spotify:track:5CM4UuQ9Gnd6K2YyKGPMoK"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Selfish",
+        "artistName" : "Little Simz",
+        "albumName" : "GREY Area",
+        "trackUri" : "spotify:track:1b6fmULpHj08RMmHfARJ4e"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Digital Love",
+        "artistName" : "Daft Punk",
+        "albumName" : "Discovery",
+        "trackUri" : "spotify:track:2VEZx7NWsZ1D0eJ4uv5Fym"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Back On 74",
+        "artistName" : "Jungle",
+        "albumName" : "Volcano",
+        "trackUri" : "spotify:track:19kHhX6f6EfLU7rcO3RqjO"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Keep Moving",
+        "artistName" : "Jungle",
+        "albumName" : "Loving In Stereo",
+        "trackUri" : "spotify:track:4rf0IVQDFjr27T4sgah5Pf"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "Everything and Nothing",
+        "artistName" : "SOFT PLAY",
+        "albumName" : "HEAVY JELLY",
+        "trackUri" : "spotify:track:6PFMLrgHByy3FRmqb2iczd"
+      },
+      "addedDate" : "2025-01-01"
+    }, {
+      "track" : {
+        "trackName" : "360",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:4w2GLmK2wnioVnb5CPQeex"
+      },
+      "addedDate" : "2025-01-01"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Chill",
+    "lastModifiedDate" : "2025-03-08",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Peluquita",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Hola Precioso",
+        "trackUri" : "spotify:track:569JTgIzmqdWAVBcVz1xIf"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Amor de Perros",
+        "artistName" : "Los Piojos",
+        "albumName" : "Máquina de Sangre",
+        "trackUri" : "spotify:track:7GyuEYodsW5i5ZkiE7OoO3"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Todo Sigue Igual",
+        "artistName" : "Viejas Locas",
+        "albumName" : "Especial",
+        "trackUri" : "spotify:track:75dqA2rQHnUtP7XjvkmKh2"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Soy débil Sr.",
+        "artistName" : "Gauchito Club",
+        "albumName" : "Vulnerable",
+        "trackUri" : "spotify:track:7C0xX5xBv03PR8Mnl81n80"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Sinoca",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Hola Precioso",
+        "trackUri" : "spotify:track:4NydZzgr1kCGWgUggqdwGH"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "La Curva",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Hola Precioso",
+        "trackUri" : "spotify:track:6ADuevR4otsqWnBEIOHS5q"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Bondi",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Cuentito",
+        "trackUri" : "spotify:track:5io1KOReKCPG038H563lYO"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "La Pibita",
+        "artistName" : "Gauchito Club",
+        "albumName" : "Guandanara",
+        "trackUri" : "spotify:track:5y1fGA0357uOjtoN3iPsnF"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Lunita de Tucumán",
+        "artistName" : "Tan Bionica",
+        "albumName" : "Canciones del Huracan + Wonderful Noches",
+        "trackUri" : "spotify:track:53lW5YliQ7tFJYYfTKE1aA"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "La pálida",
+        "artistName" : "Gauchito Club",
+        "albumName" : "El camino de la libertad",
+        "trackUri" : "spotify:track:6Kzi0s8yYEj5ZcDEmBsktl"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Altos Vuelos",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Cuentito",
+        "trackUri" : "spotify:track:5nif7u6Jb7NDvH0O4FhQss"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "UVA UVA",
+        "artistName" : "Gauchito Club",
+        "albumName" : "UVA UVA",
+        "trackUri" : "spotify:track:5gumNzmAL0OyEC9sl9YDqZ"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Onliyu",
+        "artistName" : "Gauchito Club",
+        "albumName" : "El camino de la libertad",
+        "trackUri" : "spotify:track:1wkYvavzFjQgVudTRnofuB"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Lucho Gorrión",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Cariño Reptil",
+        "trackUri" : "spotify:track:1QEIVQbghLNaOEqS2b2Ip0"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Oro de Abeja",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Estado de Enlace",
+        "trackUri" : "spotify:track:2q3GgW71FqrEfFFtdWC3tJ"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Cuatro Personalidades",
+        "artistName" : "Turf",
+        "albumName" : "Turfshow",
+        "trackUri" : "spotify:track:1kTLi5AdnjOWyJg7oJmi52"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Skalipso",
+        "artistName" : "Las Pastillas del Abuelo",
+        "albumName" : "Por Colectora",
+        "trackUri" : "spotify:track:11jKvPxMi4BJYHjhjXMqp2"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "El Paraíso de los Perros",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Beatriz",
+        "trackUri" : "spotify:track:641SFrGKgyjzDjFRx36N9u"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Lowcost",
+        "artistName" : "Gauchito Club",
+        "albumName" : "El camino de la libertad",
+        "trackUri" : "spotify:track:6KYXtb8ioMBg7OytzQ3Byb"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Chaparrón",
+        "artistName" : "Gauchito Club",
+        "albumName" : "Guandanara",
+        "trackUri" : "spotify:track:3oQbPlc44qN0ztuLHx7T5k"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "No Se Desesperen",
+        "artistName" : "Los Abuelos De La Nada",
+        "albumName" : "No Se Desesperen",
+        "trackUri" : "spotify:track:16fQJH72y7KPoLEzIaFXxG"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "El ídolo",
+        "artistName" : "Babasonicos",
+        "albumName" : "Mucho",
+        "trackUri" : "spotify:track:0lbTkNvSWghDKnoBpN2IdN"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Departamento",
+        "artistName" : "Bandalos Chinos",
+        "albumName" : "Departamento",
+        "trackUri" : "spotify:track:5VFNWuzWCalL6oZwV4GJF7"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Llamame",
+        "artistName" : "Emmanuel Horvilleur",
+        "albumName" : "PITADA",
+        "trackUri" : "spotify:track:3oqI8s2Aj0MUOop1j2vqoN"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "El Ritmo de la Vida",
+        "artistName" : "Lo' Pibitos",
+        "albumName" : "A Punto Caramelo",
+        "trackUri" : "spotify:track:0nWdzerefBQpTFg8gIbCjA"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Movimiento Astral",
+        "artistName" : "Gauchito Club",
+        "albumName" : "El camino de la libertad",
+        "trackUri" : "spotify:track:48nBfwB1kIZKMy1T3rHFE1"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Loco en el Desierto",
+        "artistName" : "Conociendo Rusia",
+        "albumName" : "Conociendo Rusia",
+        "trackUri" : "spotify:track:392fECmnYZTQjL97hqEElg"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "AYER TE VI (feat. Zoe Gotusso)",
+        "artistName" : "LOUTA",
+        "albumName" : "ENCHASTRE",
+        "trackUri" : "spotify:track:7gfyrnHMieXMjIW4n2p5wf"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Hasta Que Te Vas",
+        "artistName" : "NAFTA",
+        "albumName" : "NAFTA II",
+        "trackUri" : "spotify:track:2RUSmUeGBm5DSld1NVWVlG"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Papito Barloa",
+        "artistName" : "Gauchito Club",
+        "albumName" : "Vulnerable",
+        "trackUri" : "spotify:track:5FU2LnFyNtv0j8gO3Dw2cb"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Quiero Seguir Asi",
+        "artistName" : "Turf",
+        "albumName" : "Para Mi para Vos",
+        "trackUri" : "spotify:track:2j3juCBYkKEuKEaO8SmhUN"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Chalamán",
+        "artistName" : "Los Abuelos De La Nada",
+        "albumName" : "1982-1987 - Himnos Del Corazón",
+        "trackUri" : "spotify:track:3QGOiZ7Y57iBvIWJo5P1lP"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Mi Inteligencia Intrapersonal",
+        "artistName" : "Intoxicados",
+        "albumName" : "Buen Dia",
+        "trackUri" : "spotify:track:0AkDpXAGc99qwgpASWsGev"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Idiota",
+        "artistName" : "Isla de Caras",
+        "albumName" : "Idiota",
+        "trackUri" : "spotify:track:3O2E9WRQrmHp8FqPzIYWPT"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Planeta Numir",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Fierrín",
+        "trackUri" : "spotify:track:1w4UcQH8Rs6CLMwnY6ACvk"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "En Avenidas",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Ruli",
+        "trackUri" : "spotify:track:6QFQua4v2aeNS4XIcnJdEM"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Playas Oscuras",
+        "artistName" : "Los Visitantes",
+        "albumName" : "Salud Universal",
+        "trackUri" : "spotify:track:6yRknu7uvnsgLz1Riy5rZr"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Ella Es Agua",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Danza de Antalgia",
+        "trackUri" : "spotify:track:09vcSeqEQnTDpCmgXgPnvT"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Tu Encanto",
+        "artistName" : "Conociendo Rusia",
+        "albumName" : "Tu Encanto",
+        "trackUri" : "spotify:track:0zRCH3vyASd7BEQ6bFdbol"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Soda",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Cuentito",
+        "trackUri" : "spotify:track:0ixkQCWAOUGh7HbtQnFDHH"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Carece de Sentido",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Beatriz",
+        "trackUri" : "spotify:track:1EFGRm71YbFcNTNqDiN06b"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Cariño Reptil",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Cariño Reptil",
+        "trackUri" : "spotify:track:2CVLy4xrNfhTx3qon2jTZa"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Cómo Eran las Cosas - En Vivo",
+        "artistName" : "Babasonicos",
+        "albumName" : "Desde Adentro - Impuesto de Fe",
+        "trackUri" : "spotify:track:6EGyyUiYhSAbeIEZKECMm7"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Murguita",
+        "artistName" : "Los Piojos",
+        "albumName" : "Azul",
+        "trackUri" : "spotify:track:5JOLuUMjZ64xpM3mY5ddjI"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Ando Ganas (Llora Llora)",
+        "artistName" : "Los Piojos",
+        "albumName" : "Ritual",
+        "trackUri" : "spotify:track:2tmJbUWhS3Wr7BcJLQkQPM"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Todo Pasa",
+        "artistName" : "Los Piojos",
+        "albumName" : "Ritual",
+        "trackUri" : "spotify:track:6rTSuCmk31G4DEq6mRsmFm"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Otra Oportunidad",
+        "artistName" : "Conociendo Rusia",
+        "albumName" : "Cabildo y Juramento",
+        "trackUri" : "spotify:track:29WjfUKhMuEVdO8iCRw2eE"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Piel de Cereza",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Beatriz",
+        "trackUri" : "spotify:track:1GUdvhrBj8HZTb6qcQ3H5V"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Romance Con el Desapego",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "Danza de Antalgia",
+        "trackUri" : "spotify:track:7dq9mcfMbxuQR1idoUY3dr"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "A Salvo",
+        "artistName" : "NAFTA",
+        "albumName" : "NAFTA II",
+        "trackUri" : "spotify:track:5yWNAdKufvCQ33CAWqt6Mh"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Chica Acuario",
+        "artistName" : "Axel Fiks",
+        "albumName" : "Chica Acuario",
+        "trackUri" : "spotify:track:5c9B03lTeTYbOVgtPS6Tj2"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Un Milagro",
+        "artistName" : "NAFTA",
+        "albumName" : "NAFTA II",
+        "trackUri" : "spotify:track:7CqAwQW5OcOWgP6lVftST7"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Mi Próximo Movimiento",
+        "artistName" : "El Mató a un Policía Motorizado",
+        "albumName" : "Día de los Muertos",
+        "trackUri" : "spotify:track:4bTrhfTOvC4X3KvFCvnz0I"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Diamante Roto",
+        "artistName" : "El Mató a un Policía Motorizado",
+        "albumName" : "Diamante Roto",
+        "trackUri" : "spotify:track:6mbN4jhQvgyDYL2bK6tQKx"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Perfume Casino",
+        "artistName" : "Babasonicos",
+        "albumName" : "Dopadromo",
+        "trackUri" : "spotify:track:5uLcCL0k07AP5LCIkayVxb"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Carta Para No Llorar",
+        "artistName" : "El Kuelgue",
+        "albumName" : "Carta Para No Llorar",
+        "trackUri" : "spotify:track:636kfKOcca5RtrRPhAk5y6"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Veccar",
+        "artistName" : "Bandalos Chinos",
+        "albumName" : "En el Aire",
+        "trackUri" : "spotify:track:0WQbW3BDhSSQIAQd7H531u"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Vulnerable",
+        "artistName" : "Gauchito Club",
+        "albumName" : "Vulnerable",
+        "trackUri" : "spotify:track:4Smf2SlfBKvBztC7WLRIn3"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Ciudad de la Paz (Portal Sessions)",
+        "artistName" : "Dillom",
+        "albumName" : "Portal Sessions - Dillom y Santiago Motorizado",
+        "trackUri" : "spotify:track:0raXNvSsI6MB5q13l7i2DY"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Cirugía (Portal Sessions)",
+        "artistName" : "Dillom",
+        "albumName" : "Portal Sessions - Dillom y Santiago Motorizado",
+        "trackUri" : "spotify:track:7emRu18NfhcjQ7nmrTVWm4"
+      },
+      "addedDate" : "2025-01-04"
+    }, {
+      "track" : {
+        "trackName" : "Ritmo y Decepción",
+        "artistName" : "Miranda!",
+        "albumName" : "Magistral",
+        "trackUri" : "spotify:track:6y6tYtlYtLjQxMGok7sLhq"
+      },
+      "addedDate" : "2024-12-31"
+    }, {
+      "track" : {
+        "trackName" : "Romix",
+        "artistName" : "Miranda!",
+        "albumName" : "Es Mentira",
+        "trackUri" : "spotify:track:6UnPzOY99gntZzoOdbpCC8"
+      },
+      "addedDate" : "2025-01-05"
+    }, {
+      "track" : {
+        "trackName" : "Siempre es viernes en mi corazón (feat. Ale Sergi & Juliana Gattas)",
+        "artistName" : "Alex Anwandter",
+        "albumName" : "Amiga",
+        "trackUri" : "spotify:track:7oRwxVyXgH6vHsg5JB7ozx"
+      },
+      "addedDate" : "2025-01-05"
+    }, {
+      "track" : {
+        "trackName" : "Traición",
+        "artistName" : "Miranda!",
+        "albumName" : "El Templo del Pop",
+        "trackUri" : "spotify:track:6c0RkVllf6V7FPy1EUCclz"
+      },
+      "addedDate" : "2025-01-05"
+    }, {
+      "track" : {
+        "trackName" : "Maquillada en la Cama",
+        "artistName" : "Juliana Gattas",
+        "albumName" : "Maquillada en la Cama",
+        "trackUri" : "spotify:track:0MZ4gakE7VEeCaEZ9mVjZy"
+      },
+      "addedDate" : "2025-01-05"
+    }, {
+      "track" : {
+        "trackName" : "Tatuaje",
+        "artistName" : "Alex Anwandter",
+        "albumName" : "Rebeldes",
+        "trackUri" : "spotify:track:38Xz07BlYVyCD24sKMZLwt"
+      },
+      "addedDate" : "2025-01-05"
+    }, {
+      "track" : {
+        "trackName" : "Corazón Extraño",
+        "artistName" : "Isla de Caras",
+        "albumName" : "Corazón Extraño",
+        "trackUri" : "spotify:track:0xlOGGbvgC4gHQ6nYiOexk"
+      },
+      "addedDate" : "2025-01-05"
+    }, {
+      "track" : {
+        "trackName" : "Vine Hasta Aquí",
+        "artistName" : "Los Piojos",
+        "albumName" : "Verde Paisaje del Infierno",
+        "trackUri" : "spotify:track:7LOkbiMpnZYbybdWuv7S4U"
+      },
+      "addedDate" : "2025-01-05"
+    }, {
+      "track" : {
+        "trackName" : "Fuego de Febrero",
+        "artistName" : "El Plan De La Mariposa",
+        "albumName" : "CORRENTADA",
+        "trackUri" : "spotify:track:5QnnbCGngds8lyDAJi3jSc"
+      },
+      "addedDate" : "2025-01-25"
+    }, {
+      "track" : {
+        "trackName" : "La Luna de Neuquén",
+        "artistName" : "La Vela Puerca",
+        "albumName" : "Destilar",
+        "trackUri" : "spotify:track:6ZznUaja8PfIbU7UPUJrj4"
+      },
+      "addedDate" : "2025-03-08"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "La próxima aventura",
+    "lastModifiedDate" : "2025-02-14",
+    "collaborators" : [ "JuanmaHermida(14)" ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Volando Voy - Rumba",
+        "artistName" : "Camaron De La Isla",
+        "albumName" : "Antología De Camarón",
+        "trackUri" : "spotify:track:0u5on7aQnVknhsLtGzyV5X"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Como El Agua - Tangos",
+        "artistName" : "Camaron De La Isla",
+        "albumName" : "Como El Agua",
+        "trackUri" : "spotify:track:5m5mcEXkAJUC7a8QEPxtNT"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Me Maten - Live at NPR's Tiny Desk",
+        "artistName" : "C. Tangana",
+        "albumName" : "El Madrileño (La Sobremesa)",
+        "trackUri" : "spotify:track:2uFlBIfS4XKyOVPKiIrj5L"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Tanti auguri",
+        "artistName" : "Raffaella Carrà",
+        "albumName" : "Raffaella (1978)",
+        "trackUri" : "spotify:track:46vuDoOH9wmr0CDpomHdR4"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Puccini: Gianni Schicchi: \"O mio babbino caro\" (Lauretta)",
+        "artistName" : "Giacomo Puccini",
+        "albumName" : "Callas sings Operatic Arias by Puccini - Callas Remastered",
+        "trackUri" : "spotify:track:78k57V2uo6Sm72j1H7Ih14"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Norma: Casta Diva",
+        "artistName" : "Maria Callas",
+        "albumName" : "BD Music Presents Maria Callas",
+        "trackUri" : "spotify:track:0FfYM2w4OyE0Gg518145L5"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Gianni Schicchi: O mio babbino caro",
+        "artistName" : "Giacomo Puccini",
+        "albumName" : "Callas, Maria: Liebeslieder",
+        "trackUri" : "spotify:track:712iCmEYQQhPAwnmBEHELu"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Andavo A Cento All'Ora",
+        "artistName" : "Gianni Morandi",
+        "albumName" : "Questa E La Storia: Andavo A Cento All'ora",
+        "trackUri" : "spotify:track:6yGOLOBKsVDv4JFwVYcWrI"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Città vuota",
+        "artistName" : "Mina",
+        "albumName" : "Studio Uno",
+        "trackUri" : "spotify:track:4LrFMFEu8tc8DKm4VXGnJd"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Volare (Nel Blu di Pinto di Blu)",
+        "artistName" : "Gipsy Kings",
+        "albumName" : "Mosaïque",
+        "trackUri" : "spotify:track:4OjJAGDDZTLlTNeOMBl7UM"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Caminando por la Calle",
+        "artistName" : "Gipsy Kings",
+        "albumName" : "Mosaïque",
+        "trackUri" : "spotify:track:2AndgYmy8e8BnIhktnn2TN"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Liberté",
+        "artistName" : "Gipsy Kings",
+        "albumName" : "Mosaïque",
+        "trackUri" : "spotify:track:7BzaNmxM3Kqjl8Twvrmoqc"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Djobi, Djoba",
+        "artistName" : "Gipsy Kings",
+        "albumName" : "Gipsy Kings",
+        "trackUri" : "spotify:track:2Mz7HwloqFNdA6iZeZk5PJ"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Soy",
+        "artistName" : "Gipsy Kings",
+        "albumName" : "Mosaïque",
+        "trackUri" : "spotify:track:076jKe7yfP979o1QLKMIA2"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "La vie à 2",
+        "artistName" : "Manu Chao",
+        "albumName" : "Clandestino",
+        "trackUri" : "spotify:track:3yM2nErrfkUTNomdVlmL9V"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Tú Me Dejaste De Querer",
+        "artistName" : "C. Tangana",
+        "albumName" : "El Madrileño",
+        "trackUri" : "spotify:track:5ddFjrPG8NgQQ6xlOQIVd2"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Ménilmontant",
+        "artistName" : "Ainda",
+        "albumName" : "Uno",
+        "trackUri" : "spotify:track:3TtAQI77AyqJoJV4BEIupZ"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "A La Claire Fontaine",
+        "artistName" : "Clipounets chansons enfants et bébés",
+        "albumName" : "A La Claire Fontaine",
+        "trackUri" : "spotify:track:4lMxjhKtNvpOmQHw9kbDek"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Le long de la route",
+        "artistName" : "Zaz",
+        "albumName" : "Le long de la route",
+        "trackUri" : "spotify:track:7sPVYw9np7q2dvMU0xavol"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "La fée",
+        "artistName" : "Zaz",
+        "albumName" : "Zaz",
+        "trackUri" : "spotify:track:06pqXPHiUMiTagMqmDKttd"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Vengas Cuando Vengas",
+        "artistName" : "El Kanka",
+        "albumName" : "El Día de Suerte de Juan Gómez",
+        "trackUri" : "spotify:track:30j96TqAHd2xtZV0FbfYK9"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Tous les garçons et les filles - Stereo Mix",
+        "artistName" : "Françoise Hardy",
+        "albumName" : "Tous les garçons et les filles",
+        "trackUri" : "spotify:track:0Yg1hSAUgd2AAneReFOVzS"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Joe le taxi",
+        "artistName" : "Vanessa Paradis",
+        "albumName" : "M & J",
+        "trackUri" : "spotify:track:7nZCg1jgmXIjSBRifWkmaJ"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Le temps de l'amour - Stereo Mix",
+        "artistName" : "Françoise Hardy",
+        "albumName" : "Tous les garçons et les filles",
+        "trackUri" : "spotify:track:6rqUOLt9dpfMANLMKTzoWj"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Canopée",
+        "artistName" : "Polo & Pan",
+        "albumName" : "Caravelle",
+        "trackUri" : "spotify:track:260V7huyJrXnyYe0dFv2Fa"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Nanã",
+        "artistName" : "Polo & Pan",
+        "albumName" : "Caravelle",
+        "trackUri" : "spotify:track:0Psz3az3RIYfJpnsajBT8N"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Zoom Zoom",
+        "artistName" : "Polo & Pan",
+        "albumName" : "Caravelle",
+        "trackUri" : "spotify:track:1gWnuGAiTk3Q4yrIbwymUK"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "La mer",
+        "artistName" : "Charles Trenet",
+        "albumName" : "Disque D'or",
+        "trackUri" : "spotify:track:1ZK8WJqkD1XhEYI1AlkMHG"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Ani Kuni",
+        "artistName" : "Polo & Pan",
+        "albumName" : "Cyclorama",
+        "trackUri" : "spotify:track:1PiASZMKp39IsWwiiIYgPO"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Champs-Elysées",
+        "artistName" : "Zaz",
+        "albumName" : "Paris",
+        "trackUri" : "spotify:track:0lxV7IydOdiJ6BKrkhtDhX"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "L'amour c'est comme une cigarette",
+        "artistName" : "Sylvie Vartan",
+        "albumName" : "Les années RCA, Vol. 7",
+        "trackUri" : "spotify:track:0bRAejEEG9P7YBeuvNfXCt"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Sous le ciel de Paris",
+        "artistName" : "Édith Piaf",
+        "albumName" : "Eternelle",
+        "trackUri" : "spotify:track:6FYwnJ9Qx1EzSXWDGTkueW"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Comme d'habitude",
+        "artistName" : "Claude François",
+        "albumName" : "Le Jouet Extraordinaire",
+        "trackUri" : "spotify:track:7ayvUAf6SUoKz1D0AZJ0oy"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Pedro",
+        "artistName" : "Raffaella Carrà",
+        "albumName" : "Mi spendo tutto",
+        "trackUri" : "spotify:track:7AEfPUY8gHoEzQja4OOO49"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "A far l'amore comincia tu",
+        "artistName" : "Raffaella Carrà",
+        "albumName" : "Raffaella Carrà",
+        "trackUri" : "spotify:track:4RGMka1jhff27B8zMkMWRO"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "Più bella cosa",
+        "artistName" : "Eros Ramazzotti",
+        "albumName" : "Dove c'è musica",
+        "trackUri" : "spotify:track:0KligwQn4Iy344p2Q5m6k6"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Il ballo del mattone",
+        "artistName" : "Rita Pavone",
+        "albumName" : "31 Grandi Successi",
+        "trackUri" : "spotify:track:5zWspl0hXpL9DI6fFCVlzP"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Viva la pappa col pomodoro",
+        "artistName" : "Rita Pavone",
+        "albumName" : "31 Grandi Successi",
+        "trackUri" : "spotify:track:5lsRbHZaEBafxOtmHuzDsB"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Un'Estate Italiana (Notti Magiche)",
+        "artistName" : "Edoardo Bennato",
+        "albumName" : "Un'Estate Italiana (Notti Magiche)",
+        "trackUri" : "spotify:track:4RcV7ENKupTF0FReXnhlMp"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Bandiera Bianca - Remastered 2021",
+        "artistName" : "Franco Battiato",
+        "albumName" : "La Voce Del Padrone",
+        "trackUri" : "spotify:track:7fQ5piWnEFBc3whfqMjapM"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Luca",
+        "artistName" : "Raffaella Carrà",
+        "albumName" : "Raffaella (1978)",
+        "trackUri" : "spotify:track:1VgpJdh5WJRLw0GTHL34h2"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Nessun doma - Turandot",
+        "artistName" : "Giacomo Puccini",
+        "albumName" : "Vincerò!",
+        "trackUri" : "spotify:track:1ntATsEazvDV1jw3iiZlID"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Mambo Italiano",
+        "artistName" : "Renato Carosone",
+        "albumName" : "I Piu Grandi Successi",
+        "trackUri" : "spotify:track:2JT02CH8A8lUwB1GwqvxTQ"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Parole parole - 2001 Remastered Version",
+        "artistName" : "Mina",
+        "albumName" : "Cinquemilaquarantatre",
+        "trackUri" : "spotify:track:7LZDbABGg2NfnGsyIs2SeB"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Firenze sogna",
+        "artistName" : "Giuseppe Di Stefano",
+        "albumName" : "Mamma",
+        "trackUri" : "spotify:track:5NOE4Q3l7YI4RsXENevwYk"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "Il celo in una stanza",
+        "artistName" : "Mina",
+        "albumName" : "Las 100 Mejores Canciones de Italia",
+        "trackUri" : "spotify:track:0a5V6s1k5x1XZnGpkEiBvj"
+      },
+      "addedDate" : "2024-04-20"
+    }, {
+      "track" : {
+        "trackName" : "La domenica",
+        "artistName" : "Cocki Mazzetti",
+        "albumName" : "La domenica",
+        "trackUri" : "spotify:track:09CKkApA7REinpVtObxxPx"
+      },
+      "addedDate" : "2024-05-04"
+    }, {
+      "track" : {
+        "trackName" : "L'appuntamento",
+        "artistName" : "Ornella Vanoni",
+        "albumName" : "Del Mio Meglio",
+        "trackUri" : "spotify:track:5PnEkOUOFnk0wMI71JwddQ"
+      },
+      "addedDate" : "2024-05-04"
+    }, {
+      "track" : {
+        "trackName" : "juro que vi flores",
+        "artistName" : "MARO",
+        "albumName" : "hortelã",
+        "trackUri" : "spotify:track:2O66aZnKeRIa0P1lx2VZmf"
+      },
+      "addedDate" : "2024-05-04"
+    }, {
+      "track" : {
+        "trackName" : "Piccolo piccolo",
+        "artistName" : "Robertino",
+        "albumName" : "Robertino Top Songs",
+        "trackUri" : "spotify:track:74zSpmg9Y4kRYcX3vxKRLd"
+      },
+      "addedDate" : "2024-05-04"
+    }, {
+      "track" : {
+        "trackName" : "Amore Che Vieni, Amore Che Val",
+        "artistName" : "Franco Battiato",
+        "albumName" : "Fleurs",
+        "trackUri" : "spotify:track:4QeEhsFQOJZye2FlRQcf7j"
+      },
+      "addedDate" : "2024-05-04"
+    }, {
+      "track" : {
+        "trackName" : "Tu farai",
+        "artistName" : "Mina",
+        "albumName" : "Studio Uno",
+        "trackUri" : "spotify:track:3RfpzELsGR6t6xj0VFOBST"
+      },
+      "addedDate" : "2024-05-04"
+    }, {
+      "track" : {
+        "trackName" : "Yes Sir, I Can Boogie",
+        "artistName" : "Baccara",
+        "albumName" : "The Collection & Tracklisting",
+        "trackUri" : "spotify:track:2LScqpywMqGcnum6nNaxXX"
+      },
+      "addedDate" : "2025-02-14"
+    } ],
+    "numberOfFollowers" : 1
+  }, {
+    "name" : "hoy estoy indie",
+    "lastModifiedDate" : "2024-08-15",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Impulso",
+        "artistName" : "Adrián Berra",
+        "albumName" : "Respirar Bajo el Agua",
+        "trackUri" : "spotify:track:2AQyLNt4Wo1fKFLtFcDo1U"
+      },
+      "addedDate" : "2023-03-15"
+    }, {
+      "track" : {
+        "trackName" : "Laberinto",
+        "artistName" : "Adrián Berra",
+        "albumName" : "Respirar Bajo el Agua",
+        "trackUri" : "spotify:track:1byWs41iY3MDKPS8V9QZY9"
+      },
+      "addedDate" : "2023-03-15"
+    }, {
+      "track" : {
+        "trackName" : "Lluvia en el salón",
+        "artistName" : "Adrián Berra",
+        "albumName" : "Respirar Bajo el Agua",
+        "trackUri" : "spotify:track:2tWVI7RppWVNhvMftkdnXv"
+      },
+      "addedDate" : "2023-03-15"
+    }, {
+      "track" : {
+        "trackName" : "Patria",
+        "artistName" : "Adrián Berra",
+        "albumName" : "Respirar Bajo el Agua",
+        "trackUri" : "spotify:track:0JJxGdMVZ7KDONfMvjwvtw"
+      },
+      "addedDate" : "2023-03-15"
+    }, {
+      "track" : {
+        "trackName" : "Antenas en la ciudad",
+        "artistName" : "Adrián Berra",
+        "albumName" : "Respirar Bajo el Agua",
+        "trackUri" : "spotify:track:1IC8BPK7uZCvixdnKTvm67"
+      },
+      "addedDate" : "2023-03-15"
+    }, {
+      "track" : {
+        "trackName" : "Caminata",
+        "artistName" : "Adrián Berra",
+        "albumName" : "Respirar Bajo el Agua",
+        "trackUri" : "spotify:track:2FcZRjb9UKmH2PXW7U78MR"
+      },
+      "addedDate" : "2023-03-15"
+    }, {
+      "track" : {
+        "trackName" : "Oración",
+        "artistName" : "Adrián Berra",
+        "albumName" : "Respirar Bajo el Agua",
+        "trackUri" : "spotify:track:6XhtJuyHk6Y7S9HlckCSp6"
+      },
+      "addedDate" : "2023-03-15"
+    }, {
+      "track" : {
+        "trackName" : "A La Claire Fontaine",
+        "artistName" : "Clipounets chansons enfants et bébés",
+        "albumName" : "A La Claire Fontaine",
+        "trackUri" : "spotify:track:4lMxjhKtNvpOmQHw9kbDek"
+      },
+      "addedDate" : "2024-04-19"
+    }, {
+      "track" : {
+        "trackName" : "$20",
+        "artistName" : "boygenius",
+        "albumName" : "the record",
+        "trackUri" : "spotify:track:6KHYVC9avWQMH40pidRtcG"
+      },
+      "addedDate" : "2024-08-15"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Favoritas de la radio",
+    "lastModifiedDate" : "2022-09-14",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "If You Don't Know Me by Now - 2008 Remaster",
+        "artistName" : "Simply Red",
+        "albumName" : "A New Flame",
+        "trackUri" : "spotify:track:7DFawVSjI88xR9mjnWwURg"
+      },
+      "addedDate" : "2017-03-11"
+    }, {
+      "track" : {
+        "trackName" : "El Dron",
+        "artistName" : "Los Besos",
+        "albumName" : "Copia Viva",
+        "trackUri" : "spotify:track:2IkeCkKYha3XWJYUJe7diV"
+      },
+      "addedDate" : "2022-09-14"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Musiquita para que muevas el qlo",
+    "lastModifiedDate" : "2025-11-07",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Work",
+        "artistName" : "Rihanna",
+        "albumName" : "ANTI",
+        "trackUri" : "spotify:track:72TFWvU3wUYdUuxejTTIzt"
+      },
+      "addedDate" : "2017-02-22"
+    }, {
+      "track" : {
+        "trackName" : "LO TENGO",
+        "artistName" : "Trueno",
+        "albumName" : "Lo Tengo",
+        "trackUri" : "spotify:track:5ynDRNBqzffgtqSSxuIovs"
+      },
+      "addedDate" : "2023-02-26"
+    }, {
+      "track" : {
+        "trackName" : "Sangría - con WOS",
+        "artistName" : "Trueno",
+        "albumName" : "Atrevido",
+        "trackUri" : "spotify:track:1fJjC8C0BdgUHlKIP2ODQf"
+      },
+      "addedDate" : "2023-02-26"
+    }, {
+      "track" : {
+        "trackName" : "MELÓN VINO",
+        "artistName" : "WOS",
+        "albumName" : "CARAVANA",
+        "trackUri" : "spotify:track:5uHAzGa4d9j35DEbhUwGhi"
+      },
+      "addedDate" : "2023-02-26"
+    }, {
+      "track" : {
+        "trackName" : "QUE SE MEJOREN",
+        "artistName" : "WOS",
+        "albumName" : "OSCURO ÉXTASIS",
+        "trackUri" : "spotify:track:7nL1zzQNVESuRbd5ykNJFv"
+      },
+      "addedDate" : "2023-03-01"
+    }, {
+      "track" : {
+        "trackName" : "PUAJ (sesión)",
+        "artistName" : "WOS",
+        "albumName" : "PUAJ (sesión)",
+        "trackUri" : "spotify:track:6fTxvdEyWl3zZg2XTWO4s8"
+      },
+      "addedDate" : "2023-03-01"
+    }, {
+      "track" : {
+        "trackName" : "TRANKY FUNKY",
+        "artistName" : "Trueno",
+        "albumName" : "TRANKY FUNKY",
+        "trackUri" : "spotify:track:2RGb1i12SiuWVU2EcVHY3G"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "THE ROOF IS ON FIRE",
+        "artistName" : "Trueno",
+        "albumName" : "EL ÚLTIMO BAILE",
+        "trackUri" : "spotify:track:62Ff1Mw5sbCx017EJOsn3Q"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "DANCE CRIP",
+        "artistName" : "Trueno",
+        "albumName" : "DANCE CRIP",
+        "trackUri" : "spotify:track:1kjs5eR4DMzyB0gm1Z8waV"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "Ñeri",
+        "artistName" : "Trueno",
+        "albumName" : "Atrevido",
+        "trackUri" : "spotify:track:6Cgj3VVfcYJN9vZbMVcKRd"
+      },
+      "addedDate" : "2024-09-11"
+    }, {
+      "track" : {
+        "trackName" : "Hotline Bling",
+        "artistName" : "Drake",
+        "albumName" : "Views",
+        "trackUri" : "spotify:track:0wwPcA6wtMf6HUMpIRdeP7"
+      },
+      "addedDate" : "2023-03-03"
+    }, {
+      "track" : {
+        "trackName" : "Digital Love",
+        "artistName" : "Daft Punk",
+        "albumName" : "Discovery",
+        "trackUri" : "spotify:track:2VEZx7NWsZ1D0eJ4uv5Fym"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "Marea (we’ve lost dancing)",
+        "artistName" : "Fred again..",
+        "albumName" : "Actual Life (April 14 - December 17 2020)",
+        "trackUri" : "spotify:track:5Z8Dj3LtbyCMiwE86rhg2f"
+      },
+      "addedDate" : "2025-09-11"
+    }, {
+      "track" : {
+        "trackName" : "We Found Love",
+        "artistName" : "Rihanna",
+        "albumName" : "Talk That Talk",
+        "trackUri" : "spotify:track:0U10zFw4GlBacOy9VDGfGL"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Born Slippy (Nuxx)",
+        "artistName" : "Underworld",
+        "albumName" : "1992 - 2012",
+        "trackUri" : "spotify:track:7xQYVjs4wZNdCwO0EeAWMC"
+      },
+      "addedDate" : "2025-09-02"
+    }, {
+      "track" : {
+        "trackName" : "4 noviosS",
+        "artistName" : "Six Sex",
+        "albumName" : "Kappa Kitty Gato 2 / 4 noviosS",
+        "trackUri" : "spotify:track:5jTL6HHZnDvCkjrChTVIGz"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "MOJADO Y MOJADA",
+        "artistName" : "MCR-T",
+        "albumName" : "MOJADO Y MOJADA",
+        "trackUri" : "spotify:track:3hcH3hBbyifKpMMiKeUXk3"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Neverita",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:31i56LZnwE6uSu3exoHjtB"
+      },
+      "addedDate" : "2023-02-26"
+    }, {
+      "track" : {
+        "trackName" : "AGUA",
+        "artistName" : "CA7RIEL & Paco Amoroso",
+        "albumName" : "BAÑO MARÍA",
+        "trackUri" : "spotify:track:0gTyeWsGE071NCvkq36roh"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "Ojitos Lindos",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:3k3NWokhRRkEPhCzPmV8TW"
+      },
+      "addedDate" : "2023-03-05"
+    }, {
+      "track" : {
+        "trackName" : "DUMBAI",
+        "artistName" : "CA7RIEL & Paco Amoroso",
+        "albumName" : "BAÑO MARÍA",
+        "trackUri" : "spotify:track:2Fi6RtngvStwsjskvwabVT"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "Otro Atardecer",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:0E0DRHf5PfMeor0ZCwB3oT"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "SHEESH",
+        "artistName" : "CA7RIEL & Paco Amoroso",
+        "albumName" : "BAÑO MARÍA",
+        "trackUri" : "spotify:track:6kAMgHOOsuCoHemVEeeRFn"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "Apple",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:19RybK6XDbAVpcdxSbZL1o"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "Disciplina",
+        "artistName" : "Lali",
+        "albumName" : "LALI",
+        "trackUri" : "spotify:track:5VmevlHJrUiQZ29JzpfZB5"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "360",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:4w2GLmK2wnioVnb5CPQeex"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "COSAS RICAS",
+        "artistName" : "CA7RIEL & Paco Amoroso",
+        "albumName" : "BAÑO MARÍA",
+        "trackUri" : "spotify:track:6VU4Itrp66sFoD6cMe4ZA7"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "365",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:5h68SoVFGleijCtjEja3xG"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "EL ÚNICO",
+        "artistName" : "CA7RIEL & Paco Amoroso",
+        "albumName" : "BAÑO MARÍA",
+        "trackUri" : "spotify:track:2wuZ3kg5ChBjRKqBYfJ9H7"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "LA QUE PUEDE, PUEDE",
+        "artistName" : "CA7RIEL & Paco Amoroso",
+        "albumName" : "BAÑO MARÍA",
+        "trackUri" : "spotify:track:6gIWpyqE5r0Ebgacpg5i0M"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Guess featuring billie eilish",
+        "artistName" : "Charli xcx",
+        "albumName" : "Guess featuring billie eilish",
+        "trackUri" : "spotify:track:3WOhcATHxK2SLNeP5W3v1v"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "VeLDÁ",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:7d6yK8v8J484SWH5prIQiE"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "EoO",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:6J5kc12BW5HuP3d7C3vvx8"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Linda",
+        "artistName" : "Tokischa",
+        "albumName" : "Linda",
+        "trackUri" : "spotify:track:1ahCrpeTt94LL7y1aXw0Y8"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "KLOuFRENS",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:4MUrUT38U98olfnyzMBCzm"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "SAOKO",
+        "artistName" : "ROSALÍA",
+        "albumName" : "MOTOMAMI",
+        "trackUri" : "spotify:track:2FYGZDfsAnNsrm1gVbyKnG"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "EL CLúB",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:0iKo4pNNjHHdKUcFARlfCa"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "CHICKEN TERIYAKI",
+        "artistName" : "ROSALÍA",
+        "albumName" : "MOTOMAMI",
+        "trackUri" : "spotify:track:6hH6QJ9ZAO0Z6m7PfvLoXW"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "B2b",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:4wTvw1dBiPXNiHTh0zzpcI"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "BIZCOCHITO",
+        "artistName" : "ROSALÍA",
+        "albumName" : "MOTOMAMI",
+        "trackUri" : "spotify:track:4kXxEhuatrvwrTQycA7s9B"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Talk talk",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:62fqMvguJbsSs9HKhhRfuS"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "CUUUUuuuuuute",
+        "artistName" : "ROSALÍA",
+        "albumName" : "MOTOMAMI",
+        "trackUri" : "spotify:track:3BQPPsoxlhuSIEPlNRHHZt"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Von dutch",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:3Y1EvIgEVw51XtgNEgpz5c"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "DIABLO",
+        "artistName" : "ROSALÍA",
+        "albumName" : "MOTOMAMI",
+        "trackUri" : "spotify:track:4QlMiL1BPCBzLfn1XbSkpg"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Aguacero",
+        "artistName" : "Bad Bunny",
+        "albumName" : "Un Verano Sin Ti",
+        "trackUri" : "spotify:track:2uflssWlCaJ6CbTMOsUpNI"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Abracadabra",
+        "artistName" : "Lady Gaga",
+        "albumName" : "MAYHEM",
+        "trackUri" : "spotify:track:4vcDr56fq4Jjxpegx3XPnv"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Club classics",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:0CySZwyRJ0vyUqtSjM9i2k"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "bad guy",
+        "artistName" : "Billie Eilish",
+        "albumName" : "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "trackUri" : "spotify:track:2Fxmhks0bxGSBdJ92vM42m"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Mean girls",
+        "artistName" : "Charli xcx",
+        "albumName" : "BRAT",
+        "trackUri" : "spotify:track:1qKCO2Tocwg8CbepJ9uDtd"
+      },
+      "addedDate" : "2025-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Nanã",
+        "artistName" : "Polo & Pan",
+        "albumName" : "Caravelle",
+        "trackUri" : "spotify:track:0Psz3az3RIYfJpnsajBT8N"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "Canopée",
+        "artistName" : "Polo & Pan",
+        "albumName" : "Caravelle",
+        "trackUri" : "spotify:track:260V7huyJrXnyYe0dFv2Fa"
+      },
+      "addedDate" : "2024-08-15"
+    }, {
+      "track" : {
+        "trackName" : "Bad Habit",
+        "artistName" : "Steve Lacy",
+        "albumName" : "Bad Habit",
+        "trackUri" : "spotify:track:5CM4UuQ9Gnd6K2YyKGPMoK"
+      },
+      "addedDate" : "2023-03-01"
+    }, {
+      "track" : {
+        "trackName" : "EN EL AFTER",
+        "artistName" : "CA7RIEL & Paco Amoroso",
+        "albumName" : "EN EL AFTER",
+        "trackUri" : "spotify:track:40Zi8uJvkk6oQ2DWbT7E0o"
+      },
+      "addedDate" : "2025-09-25"
+    }, {
+      "track" : {
+        "trackName" : "Villano Antillano: Bzrp Music Sessions, Vol. 51/66",
+        "artistName" : "Bizarrap",
+        "albumName" : "Villano Antillano: Bzrp Music Sessions, Vol. 51/66",
+        "trackUri" : "spotify:track:4hceSKjrkDTO0nMKFcb3sj"
+      },
+      "addedDate" : "2025-09-25"
+    }, {
+      "track" : {
+        "trackName" : "KETU TeCRÉ",
+        "artistName" : "Bad Bunny",
+        "albumName" : "DeBÍ TiRAR MáS FOToS",
+        "trackUri" : "spotify:track:4c2Pc0NrfkesPR0jff6q3F"
+      },
+      "addedDate" : "2025-10-13"
+    }, {
+      "track" : {
+        "trackName" : "Ptazeta: Bzrp Music Sessions, Vol. 45/66",
+        "artistName" : "Bizarrap",
+        "albumName" : "Ptazeta: Bzrp Music Sessions, Vol. 45/66",
+        "trackUri" : "spotify:track:4axxCbc4tWlpqHP5UbJMc3"
+      },
+      "addedDate" : "2025-11-04"
+    }, {
+      "track" : {
+        "trackName" : "⁠Beto’s Horns - Ezra Collective remix",
+        "artistName" : "Fred again..",
+        "albumName" : "⁠Beto’s Horns",
+        "trackUri" : "spotify:track:39QDO1CMwXHDPdw8cjJpTi"
+      },
+      "addedDate" : "2025-11-07"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : " ♡",
+    "lastModifiedDate" : "2018-10-03",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Mona Lisas And Mad Hatters",
+        "artistName" : "Elton John",
+        "albumName" : "Honky Chateau",
+        "trackUri" : "spotify:track:4lBV4EO5yZvv1bDlk38hjK"
+      },
+      "addedDate" : "2014-10-05"
+    }, {
+      "track" : {
+        "trackName" : "Rocket Man (I Think It's Going To Be A Long Long Time)",
+        "artistName" : "Elton John",
+        "albumName" : "Honky Chateau",
+        "trackUri" : "spotify:track:2zvot9pY2FNl1E94kc4K8M"
+      },
+      "addedDate" : "2014-10-05"
+    }, {
+      "track" : {
+        "trackName" : "That's the Way - Remaster",
+        "artistName" : "Led Zeppelin",
+        "albumName" : "Led Zeppelin III",
+        "trackUri" : "spotify:track:3UsvZGhlJrBTX2OWXh2BvC"
+      },
+      "addedDate" : "2014-10-05"
+    }, {
+      "track" : {
+        "trackName" : "Confesiones de Invierno (En Vivo)",
+        "artistName" : "Sui Generis",
+        "albumName" : "Adiós Sui Generis Vol.I",
+        "trackUri" : "spotify:track:7802aIsnTiFQjXztmfImvp"
+      },
+      "addedDate" : "2017-03-21"
+    }, {
+      "track" : {
+        "trackName" : "Don't Think Twice, It's All Right",
+        "artistName" : "Bob Dylan",
+        "albumName" : "The Freewheelin' Bob Dylan",
+        "trackUri" : "spotify:track:2WOjLF83vqjit2Zh4B69V3"
+      },
+      "addedDate" : "2017-03-21"
+    }, {
+      "track" : {
+        "trackName" : "City Of Stars - From \"La La Land\" Soundtrack",
+        "artistName" : "Ryan Gosling",
+        "albumName" : "La La Land",
+        "trackUri" : "spotify:track:6s9LhJVqxnTjmUJHOeawnU"
+      },
+      "addedDate" : "2017-03-21"
+    }, {
+      "track" : {
+        "trackName" : "Save Me - Remastered 2011",
+        "artistName" : "Queen",
+        "albumName" : "The Game",
+        "trackUri" : "spotify:track:1pBFEy8cz0Fq4Pru0c4awd"
+      },
+      "addedDate" : "2017-03-21"
+    }, {
+      "track" : {
+        "trackName" : "Heaven",
+        "artistName" : "Jimmy Scott",
+        "albumName" : "Heaven",
+        "trackUri" : "spotify:track:5ub4oqBFLNrZ08nzsdZuD3"
+      },
+      "addedDate" : "2017-03-21"
+    } ],
+    "numberOfFollowers" : 0
+  } ]
+}

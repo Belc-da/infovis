@@ -289,7 +289,7 @@
   </header>
 
   <!-- ========================================================= -->
-  <!-- ALERTA MELÓMANA                                           -->
+  <!-- ALERTA MELÓMANA                                            -->
   <!-- ========================================================= -->
   <aside class="alert-banner">
     <div class="alert-icon">🚨</div>
@@ -304,10 +304,10 @@
   </aside>
 
   <!-- ========================================================= -->
-  <!-- SECCIÓN: EXPLOREMOS MI BIBLIOTECA DE CANCIONES            -->
+  <!-- SECCIÓN 1: EXPLOREMOS MI BIBLIOTECA DE CANCIONES          -->
   <!-- ========================================================= -->
   <div class="section-header">
-    <h2>Exploremos mi biblioteca de canciones</h2>
+    <h2>1. Exploremos mi biblioteca de canciones</h2>
     <p>Análisis de las métricas de la colección personal guardada en Spotify.</p>
   </div>
 
@@ -315,7 +315,7 @@
   <section class="kpi-container">
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">📊</span> Promedio Canciones / Artista</div>
-      <div class="kpi-value">2,55</div>
+      <div class="kpi-value">2.55</div>
       <div class="kpi-detail">Canciones por artista en biblioteca</div>
     </div>
 
@@ -327,7 +327,7 @@
 
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">🎯</span> Concentración Top 10</div>
-      <div class="kpi-value">17,68%</div>
+      <div class="kpi-value">17.68%</div>
       <div class="kpi-detail">145 canciones de tu biblioteca</div>
     </div>
   </section>
@@ -349,54 +349,80 @@
   </section>
 
   <!-- ========================================================= -->
-  <!-- SECCIÓN 1: MIS HÁBITOS DE ESCUCHA                        -->
+  <!-- SECCIÓN 2: PERO... ¿QUÉ ESCUCHO REALMENTE?                 -->
   <!-- ========================================================= -->
   <div class="section-header" style="border-left-color: #1ed760;">
-    <h2>1. Mis hábitos de escucha</h2>
-    <p>Métricas generales de consumo de streaming y distribución horaria/diaria.</p>
+    <h2>2. Pero... ¿qué escucho realmente?</h2>
+    <p>Métricas detalladas de reproducción y consumo real extraídas de mi historial de streaming.</p>
     <div class="time-badge">📅 Período analizado: Agosto 2025 – Agosto 2026</div>
   </div>
 
-  <!-- KPIs de Hábitos de Escucha -->
+  <!-- KPIs de Historial Real -->
   <section class="kpi-container" style="margin-top: 20px;">
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">⏱️</span> Tiempo Total Escuchado</div>
-      <div class="kpi-value" style="font-size: 1.5rem;">27.414,5 min</div>
-      <div class="kpi-detail">453,59 horas / 18,9 días en total</div>
+      <div class="kpi-value" style="font-size: 1.5rem;">27,414.5 min</div>
+      <div class="kpi-detail">453.59 horas / 18.9 días en total</div>
+    </div>
+
+    <div class="kpi-card">
+      <div class="kpi-header"><span class="kpi-icon">🎤</span> Artistas Únicos Escuchados</div>
+      <div class="kpi-value">720</div>
+      <div class="kpi-detail">Artistas reproducidos en total</div>
+    </div>
+
+    <div class="kpi-card">
+      <div class="kpi-header"><span class="kpi-icon">🎼</span> Canciones Únicas Escuchadas</div>
+      <div class="kpi-value">3,083</div>
+      <div class="kpi-detail">Pistas distintas reproducidas</div>
     </div>
 
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">📅</span> Promedio Diario Escuchado</div>
-      <div class="kpi-value">78,1 min</div>
+      <div class="kpi-value">78.1 min</div>
       <div class="kpi-detail">Minutos escuchados por día</div>
     </div>
 
     <div class="kpi-card">
-      <div class="kpi-header"><span class="kpi-icon">⌛</span> Duración promedio de escucha</div>
-      <div class="kpi-value">2,11 min</div>
+      <div class="kpi-header"><span class="kpi-icon">⌛</span> Duración Promedio Escuchada</div>
+      <div class="kpi-value">2.11 min</div>
       <div class="kpi-detail">Duración por sesión de escucha</div>
+    </div>
+
+    <div class="kpi-card">
+      <div class="kpi-header"><span class="kpi-icon">🌟</span> Artista #1 Más Escuchado</div>
+      <div class="kpi-value" style="font-size: 1.45rem;">Mac DeMarco</div>
+      <div class="kpi-detail">979.34 minutos reproducidos</div>
+    </div>
+
+    <div class="kpi-card" style="grid-column: 1 / -1;">
+      <div class="kpi-header"><span class="kpi-icon">🔀</span> Índice de Variedad Musical</div>
+      <div class="kpi-value">4.28</div>
+      <div class="kpi-detail">Canciones distintas reproducidas por cada artista en el historial</div>
     </div>
   </section>
 
-  <!-- GRÁFICO TABLEAU: Heatmap de Hábitos de Escucha -->
+  <!-- ========================================================= -->
+  <!-- SUBSECCIÓN: HÁBITOS DE ESCUCHA (TABLEAU)                 -->
+  <!-- ========================================================= -->
   <section class="card">
     <div class="card-header">
-      <h2 class="card-title">Hábitos de escucha</h2>
-      <span class="card-subtitle">Agosto 2025 - Agosto 2026</span>
+      <h2 class="card-title">Hábitos de Escucha en Spotify</h2>
+      <span class="card-subtitle">Mapa de calor e intensidad de reproducción</span>
     </div>
     <div class="graphic-container">
-      <div class='tableauPlaceholder' id='viz1788819329256' style='position: relative'>
+      <div class='tableauPlaceholder' id='viz1788825650181' style='position: relative'>
         <noscript>
-          <a href='#'><img alt='Hábitos de escucha - Agosto 2025 - Agosto 2026 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyHeatmap&#47;Hoja1&#47;1_rss.png' style='border: none' /></a>
+          <a href='#'><img alt='Spotify Habitos de Escucha ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyHeatmap&#47;SpotifyHabitosdeEscucha&#47;1_rss.png' style='border: none' /></a>
         </noscript>
         <object class='tableauViz' style='display:none;'>
           <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
           <param name='embed_code_version' value='3' />
           <param name='site_root' value='' />
-          <param name='name' value='SpotifyHeatmap&#47;Hoja1' />
+          <param name='name' value='SpotifyHeatmap&#47;SpotifyHabitosdeEscucha' />
           <param name='tabs' value='no' />
           <param name='toolbar' value='yes' />
-          <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyHeatmap&#47;Hoja1&#47;1.png' />
+          <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyHeatmap&#47;SpotifyHabitosdeEscucha&#47;1.png' />
           <param name='animate_transition' value='yes' />
           <param name='display_static_image' value='yes' />
           <param name='display_spinner' value='yes' />
@@ -406,10 +432,15 @@
         </object>
       </div>
       <script type='text/javascript'>
-        var divElement = document.getElementById('viz1788819329256');
+        var divElement = document.getElementById('viz1788825650181');
         var vizElement = divElement.getElementsByTagName('object')[0];
-        vizElement.style.width='100%';
-        vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+        if ( divElement.offsetWidth > 800 ) { 
+          vizElement.style.minWidth='1000px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='227px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';
+        } else if ( divElement.offsetWidth > 500 ) { 
+          vizElement.style.minWidth='1000px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='227px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';
+        } else { 
+          vizElement.style.width='100%';vizElement.style.height='727px';
+        }
         var scriptElement = document.createElement('script');
         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
         vizElement.parentNode.insertBefore(scriptElement, vizElement);
@@ -418,15 +449,11 @@
   </section>
 
   <!-- ========================================================= -->
-  <!-- SECCIÓN 2: PERO... ¿QUÉ ESCUCHO REALMENTE?                -->
+  <!-- SUBSECCIÓN: GÉNEROS MUSICALES Y VARIABILIDAD SEMANAL     -->
   <!-- ========================================================= -->
-  <div class="section-header" style="border-left-color: #1ed760;">
-    <h2>2. Pero... ¿qué escucho realmente?</h2>
-    <p>Análisis profundo de la diversidad, preferencias y evolución de géneros musicales.</p>
-  </div>
-
-  <!-- KPIs de Géneros y Variabilidad Semanal -->
-  <section class="kpi-container" style="margin-top: 20px;">
+  
+  <!-- KPIs de Géneros y Variabilidad -->
+  <section class="kpi-container" style="margin-top: 35px;">
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">🎸</span> Top Género Principal</div>
       <div class="kpi-value" style="font-size: 1.4rem;">Rock Argentino</div>
@@ -441,25 +468,25 @@
 
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">📆</span> Prom. Géneros Principales</div>
-      <div class="kpi-value">43,96</div>
+      <div class="kpi-value">43.96</div>
       <div class="kpi-detail">Géneros escuchados por semana</div>
     </div>
 
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">📆</span> Prom. Géneros Secundarios</div>
-      <div class="kpi-value">86,77</div>
+      <div class="kpi-value">86.77</div>
       <div class="kpi-detail">Subgéneros escuchados por semana</div>
     </div>
 
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">📉</span> Desviación Estándar</div>
-      <div class="kpi-value">±15,79</div>
+      <div class="kpi-value">±15.79</div>
       <div class="kpi-detail">Variación semanal en cantidad de géneros</div>
     </div>
 
     <div class="kpi-card">
       <div class="kpi-header"><span class="kpi-icon">📊</span> Coeficiente de Variación</div>
-      <div class="kpi-value">35,91%</div>
+      <div class="kpi-value">35.91%</div>
       <div class="kpi-detail">Alta variabilidad del gusto musical entre semanas</div>
     </div>
   </section>
@@ -492,39 +519,8 @@
   </section>
 
   <!-- ========================================================= -->
-  <!-- SECCIÓN 3: LOS ESCUCHO A TODOS PERO ALGUNOS SON MIS PREFERIDOS -->
+  <!-- SUBSECCIÓN: RANKING DE ARTISTAS PRINCIPALES              -->
   <!-- ========================================================= -->
-  <div class="section-header" style="border-left-color: #1ed760;">
-    <h2>3. Los escucho a todos pero algunos son mis preferidos</h2>
-    <p>Artistas, temas clave y grado de diversidad en el catálogo consumido.</p>
-  </div>
-
-  <!-- KPIs de Artistas y Variedad -->
-  <section class="kpi-container" style="margin-top: 20px;">
-    <div class="kpi-card">
-      <div class="kpi-header"><span class="kpi-icon">🎤</span> Artistas Únicos Escuchados</div>
-      <div class="kpi-value">720</div>
-      <div class="kpi-detail">Artistas reproducidos en total</div>
-    </div>
-
-    <div class="kpi-card">
-      <div class="kpi-header"><span class="kpi-icon">🎼</span> Canciones Únicas Escuchadas</div>
-      <div class="kpi-value">3.083</div>
-      <div class="kpi-detail">Pistas distintas reproducidas</div>
-    </div>
-
-    <div class="kpi-card">
-      <div class="kpi-header"><span class="kpi-icon">🌟</span> Artista #1 Más Escuchado</div>
-      <div class="kpi-value" style="font-size: 1.45rem;">Mac DeMarco</div>
-      <div class="kpi-detail">979,34 minutos reproducidos</div>
-    </div>
-
-    <div class="kpi-card" style="grid-column: 1 / -1;">
-      <div class="kpi-header"><span class="kpi-icon">🔀</span> Índice de Variedad Musical</div>
-      <div class="kpi-value">4,28</div>
-      <div class="kpi-detail">Canciones distintas reproducidas por cada artista en el historial</div>
-    </div>
-  </section>
 
   <!-- GRÁFICO FLOURISH: Reproducciones Top 10 Artistas -->
   <section class="card">

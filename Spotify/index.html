@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Spotify Data - Mis Reproducciones</title>
+  <title>Spotify Data & Mis Trabajos de InfoVis</title>
 
   <!-- Script oficial de Flourish para renderizar embeds -->
   <script src="https://public.flourish.studio/resources/embed.js"></script>
@@ -111,7 +111,7 @@
       font-size: 1.1rem;
     }
 
-    /* Títulos de Secciones principales */
+    /* Títulos de Secciones */
     .section-header {
       width: 100%;
       max-width: 900px;
@@ -215,7 +215,6 @@
       background-color: var(--spotify-light-gray);
     }
 
-    /* Tarjeta con fondo claro para Datawrapper */
     .card.card-light {
       background-color: #ffffff;
       color: #121212;
@@ -271,8 +270,9 @@
       border-radius: 8px;
     }
 
-    .graphic-container img,
-    .graphic-container object {
+    .graphic-container object,
+    .graphic-container img {
+      width: 100%;
       max-width: 100%;
       height: auto;
       border-radius: 8px;
@@ -285,7 +285,7 @@
   <!-- Encabezado Principal -->
   <header>
     <div class="spotify-logo">▶</div>
-    <h1 class="main-title">Spotify Visual Data</h1>
+    <h1 class="main-title">Spotify Visual Data - Mis Trabajos de InfoVis</h1>
   </header>
 
   <!-- ========================================================= -->
@@ -332,7 +332,18 @@
     </div>
   </section>
 
-  <!-- GRÁFICO 1: Datawrapper - Mi librería de canciones -->
+  <!-- SANKEY -->
+  <section class="card">
+    <div class="card-header">
+      <h2 class="card-title">Sankey</h2>
+      <span class="card-subtitle">Flujo de datos visual</span>
+    </div>
+    <div class="graphic-container">
+      <object type="image/svg+xml" data="sankey.svg"></object> 
+    </div>
+  </section>
+
+  <!-- DATAWRAPPER 1 (Biblioteca) -->
   <section class="card card-light">
     <div class="card-header">
       <h2 class="card-title">Mi librería de canciones</h2>
@@ -402,20 +413,18 @@
     </div>
   </section>
 
-  <!-- ========================================================= -->
-  <!-- SUBSECCIÓN: HÁBITOS DE ESCUCHA (TABLEAU)                 -->
-  <!-- ========================================================= -->
+  <!-- TABLEAU: HÁBITOS DE ESCUCHA -->
   <section class="card">
     <div class="card-header">
       <h2 class="card-title">Hábitos de Escucha en Spotify</h2>
       <span class="card-subtitle">Mapa de calor e intensidad de reproducción</span>
     </div>
-    <div class="graphic-container">
-      <div class='tableauPlaceholder' id='viz1788825650181' style='position: relative'>
+    <div class="graphic-container" style="width: 100%; min-height: 850px; overflow: hidden;">
+      <div class='tableauPlaceholder' id='viz1788825650181' style='position: relative; width: 100%; height: 100%; min-height: 850px;'>
         <noscript>
           <a href='#'><img alt='Spotify Habitos de Escucha ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyHeatmap&#47;SpotifyHabitosdeEscucha&#47;1_rss.png' style='border: none' /></a>
         </noscript>
-        <object class='tableauViz' style='display:none;'>
+        <object class='tableauViz' style='display:none; width: 100%; height: 100%; min-height: 850px;'>
           <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
           <param name='embed_code_version' value='3' />
           <param name='site_root' value='' />
@@ -434,13 +443,8 @@
       <script type='text/javascript'>
         var divElement = document.getElementById('viz1788825650181');
         var vizElement = divElement.getElementsByTagName('object')[0];
-        if ( divElement.offsetWidth > 800 ) { 
-          vizElement.style.minWidth='1000px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='227px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';
-        } else if ( divElement.offsetWidth > 500 ) { 
-          vizElement.style.minWidth='1000px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='227px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';
-        } else { 
-          vizElement.style.width='100%';vizElement.style.height='727px';
-        }
+        vizElement.style.width = '100%';
+        vizElement.style.height = '850px';
         var scriptElement = document.createElement('script');
         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
         vizElement.parentNode.insertBefore(scriptElement, vizElement);
@@ -491,48 +495,72 @@
     </div>
   </section>
 
-  <!-- GRÁFICO SVG: Streamgraph de Géneros -->
+  <!-- STREAMGRAPH -->
   <section class="card">
     <div class="card-header">
-      <h2 class="card-title">Evolución de escucha de mi TOP 10 de géneros principales</h2>
-      <span class="card-subtitle">Período Agosto 2025 - Agosto 2026</span>
+      <h2 class="card-title">Streamgraph</h2>
+      <span class="card-subtitle">Evolución de escucha de mi TOP 10 de géneros principales</span>
     </div>
     <div class="graphic-container">
-      <img src="streamgraph.svg" alt="Evolución de escucha de mi TOP 10 de géneros principales" style="width: 100%; height: auto;" />
+      <object type="image/svg+xml" data="streamgraph.svg"></object>
     </div>
   </section>
 
-  <!-- GRÁFICO FLOURISH: Jerarquía de Subgéneros -->
+  <!-- BUMPCHART -->
+  <section class="card">
+    <div class="card-header">
+      <h2 class="card-title">Bumpchart</h2>
+      <span class="card-subtitle">Cambios de posición en el ranking musical</span>
+    </div>
+    <div class="graphic-container">
+      <object type="image/svg+xml" data="bumpchart.svg"></object>
+    </div>
+  </section>
+
+  <!-- FLOURISH 1 (Original) -->
+  <section class="card">
+    <div class="card-header">
+      <h2 class="card-title">Flourish</h2>
+      <span class="card-subtitle">Visualización interactiva</span>
+    </div>
+    <div class="graphic-container">
+      <div class="flourish-embed flourish-chart" data-src="visualisation/30003340"></div>
+    </div>
+  </section>
+
+  <!-- FLOURISH 2 (Jerarquía) -->
   <section class="card">
     <div class="card-header">
       <h2 class="card-title">Descomposición por géneros secundarios dentro de cada género</h2>
       <span class="card-subtitle">Distribución jerárquica de géneros y subgéneros</span>
     </div>
     <div class="graphic-container">
-      <div class="flourish-embed flourish-hierarchy" data-src="visualisation/30173056">
-        <script src="https://public.flourish.studio/resources/embed.js"></script>
-        <noscript>
-          <img src="https://public.flourish.studio/visualisation/30173056/thumbnail" width="100%" alt="hierarchy visualization" />
-        </noscript>
-      </div>
+      <div class="flourish-embed flourish-hierarchy" data-src="visualisation/30173056"></div>
     </div>
   </section>
 
-  <!-- ========================================================= -->
-  <!-- SUBSECCIÓN: RANKING DE ARTISTAS PRINCIPALES              -->
-  <!-- ========================================================= -->
-
-  <!-- GRÁFICO FLOURISH: Reproducciones Top 10 Artistas -->
+  <!-- FLOURISH 3 (Top 10 Artistas) -->
   <section class="card">
     <div class="card-header">
       <h2 class="card-title">Reproducciones en minutos TOP 10 Artistas Principales</h2>
       <span class="card-subtitle">Agosto 2025 - Agosto 2026</span>
     </div>
     <div class="graphic-container">
-      <div class="flourish-embed flourish-chart" data-src="visualisation/30074719">
-        <script src="https://public.flourish.studio/resources/embed.js"></script>
+      <div class="flourish-embed flourish-chart" data-src="visualisation/30074719"></div>
+    </div>
+  </section>
+
+  <!-- DATAWRAPPER 2 (Original Pizza Toppings) -->
+  <section class="card card-light">
+    <div class="card-header">
+      <h2 class="card-title">DataWrapper</h2>
+      <span class="card-subtitle">Male and Female preferences for pizza toppings (Range Plot)</span>
+    </div>
+    <div class="graphic-container graphic-container-white">
+      <div style="min-height:450px" id="datawrapper-vis-VPzpS">
+        <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/VPzpS/embed.js" charset="utf-8" data-target="#datawrapper-vis-VPzpS"></script>
         <noscript>
-          <img src="https://public.flourish.studio/visualisation/30074719/thumbnail" width="100%" alt="chart visualization" />
+          <img src="https://datawrapper.dwcdn.net/VPzpS/full.png" alt="Male and Female preferences for pizza toppings (Range Plot)" />
         </noscript>
       </div>
     </div>
